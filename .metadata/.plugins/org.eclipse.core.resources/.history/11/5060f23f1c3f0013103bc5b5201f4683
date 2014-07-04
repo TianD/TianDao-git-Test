@@ -1,0 +1,11 @@
+'''
+Created on 2013/10/27/
+
+@author: hgy
+'''
+import xlrd
+simple = xlrd.open_workbook('C:\\Users\\hgy\\Desktop\\simple.xls')
+print simple
+print simple.nsheets
+for sheet_index in range(simple.nsheets):
+    print simple.sheet_by_index(sheet_index)

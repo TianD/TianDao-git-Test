@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;GetDistance/GetDistance&apos;" deleteContents="false" description="Delete resource &apos;GetDistance/GetDistance&apos;" element1="/GetDistance/GetDistance" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1381239448676"/>&#x0A;<refactoring comment="Delete resource &apos;ForExcel/forExcel&apos;" deleteContents="false" description="Delete resource &apos;ForExcel/forExcel&apos;" element1="/ForExcel/forExcel" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1381594358219"/>
+</session>

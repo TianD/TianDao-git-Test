@@ -1,0 +1,56 @@
+00:06:05 **** Rebuild of configuration Debug for project helloCPP ****
+Info: Internal Builder is used for build
+cl /c /EHs /MD /Zi /nologo "/Fosrc\\helloCPP.obj" "..\\src\\helloCPP.cpp" 
+Cannot run program "cl": Launching failed
+
+Error: Program "cl" not found in PATH
+PATH=[C:\Windows\system32;C:\Windows;C:\Windows\system32\wbem;E:\Tools\Autodesk\Maya 2013\Maya2013\bin\plug-ins\Qualoth\;E:\JDK7U40\bin;E:\Python33;E:\Python33\Lib\site-packages\PyQt5]
+
+21:22:05 **** Incremental Build of configuration Debug for project helloCPP ****
+Info: Internal Builder is used for build
+cl /c /EHs /MD /Zi /nologo "/Fosrc\\helloCPP.obj" "..\\src\\helloCPP.cpp" 
+Cannot run program "cl": Launching failed
+
+Error: Program "cl" not found in PATH
+PATH=[C:\Windows\system32;C:\Windows;C:\Windows\system32\wbem;E:\Tools\Autodesk\Maya 2013\Maya2013\bin\plug-ins\Qualoth\;E:\JDK7U40\bin;E:\Python33;E:\Python33\Lib\site-packages\PyQt5]
+
+21:23:40 **** Incremental Build of configuration Debug for project helloCPP ****
+Info: Internal Builder is used for build
+cl /c /EHs /MD /Zi /nologo "/Fosrc\\helloCPP.obj" "..\\src\\helloCPP.cpp" 
+Cannot run program "cl": Launching failed
+
+Error: Program "cl" not found in PATH
+PATH=[C:\Windows\system32;C:\Windows;C:\Windows\system32\wbem;E:\Tools\Autodesk\Maya 2013\Maya2013\bin\plug-ins\Qualoth\;E:\JDK7U40\bin;E:\Python33;E:\Python33\Lib\site-packages\PyQt5]
+
+21:25:57 **** Incremental Build of configuration Debug for project helloCPP ****
+Info: Internal Builder is used for build
+cl /c /EHs /MD /Zi /nologo "/Fosrc\\helloCPP.obj" "..\\src\\helloCPP.cpp" 
+Cannot run program "cl": Launching failed
+
+Error: Program "cl" not found in PATH
+PATH=[C:\Windows\system32;C:\Windows;C:\Windows\system32\wbem;E:\Tools\Autodesk\Maya 2013\Maya2013\bin\plug-ins\Qualoth\;E:\JDK7U40\bin;E:\Python33;E:\Python33\Lib\site-packages\PyQt5]
+
+21:34:33 **** Incremental Build of configuration Debug for project helloCPP ****
+Info: Internal Builder is used for build
+cl /c /EHs /MD /Zi /nologo "/Fosrc\\helloCPP.obj" "..\\src\\helloCPP.cpp" 
+Cannot run program "cl": Launching failed
+
+Error: Program "cl" not found in PATH
+PATH=[C:\Windows\system32;C:\Windows;C:\Windows\system32\wbem;E:\Tools\Autodesk\Maya 2013\Maya2013\bin\plug-ins\Qualoth\;E:\JDK7U40\bin;E:\Python33;E:\Python33\Lib\site-packages\PyQt5]
+
+21:35:34 **** Incremental Build of configuration Debug for project helloCPP ****
+Info: Internal Builder is used for build
+cl /c /EHs /MD /Zi /nologo "/Fosrc\\helloCPP.obj" "..\\src\\helloCPP.cpp" 
+Cannot run program "cl": Launching failed
+
+Error: Program "cl" not found in PATH
+PATH=[C:\Windows\system32;C:\Windows;C:\Windows\system32\wbem;E:\Tools\Autodesk\Maya 2013\Maya2013\bin\plug-ins\Qualoth\;E:\JDK7U40\bin;E:\Python33;E:\Python33\Lib\site-packages\PyQt5]
+
+21:43:06 **** Incremental Build of configuration Debug for project helloCPP ****
+Info: Internal Builder is used for build
+cl /c /EHs /MD /Zi /nologo "/Fosrc\\helloCPP.obj" "..\\src\\helloCPP.cpp" 
+Cannot run program "cl": Launching failed
+
+Error: Program "cl" not found in PATH
+PATH=[C:\Windows\system32;C:\Windows;C:\Windows\system32\wbem;E:\Tools\Autodesk\Maya 2013\Maya2013\bin\plug-ins\Qualoth\;E:\JDK7U40\bin;E:\Python33;E:\Python33\Lib\site-packages\PyQt5]
+

@@ -1,0 +1,25 @@
+-- VERSION_3
+-- START DISKCACHE
+E:\Users\hgy\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\TDtrigonometricNode\com.python.pydev.analysis\v1_indexcache
+.v1_indexcache
+TDtrigonometricNode|0|E:\Users\hgy\workspace\TDtrigonometricNode\TDtrigonometricNode.py
+-- END DISKCACHE
+-- START DICTIONARY
+1
+1=TDtrigonometricNode
+-- END DICTIONARY
+-- START TREE 1
+5
+ini|1|initializePlugin!10@
+kpl|1|kPluginNodeTypeName!11@
+nod|2|nodeCreator!10@nodeInitializer!10@
+tdt|2|TDtrigonometricNodeId!11@TDtrigonometricNode!9@
+uni|1|uninitializePlugin!10@
+-- END TREE
+-- START TREE 2
+4
+__i|1|__init__!1&10@
+com|1|compute!1&10@
+inp|1|input!1&11@
+out|1|output!1&11@
+-- END TREE

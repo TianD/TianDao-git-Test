@@ -1,0 +1,33 @@
+-- VERSION_3
+-- START DISKCACHE
+E:\Users\hgy\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\TestWindow\com.python.pydev.analysis\v1_indexcache
+.v1_indexcache
+testQML|0|E:\Users\hgy\workspace\TestWindow\testQML.py
+testWindow|0|E:\Users\hgy\workspace\TestWindow\testWindow.py
+testExample|0|E:\Users\hgy\workspace\TestWindow\testExample.py
+-- END DISKCACHE
+-- START DICTIONARY
+7
+1=testQML
+3=testWindow
+2=testExample
+5=MyWindow
+7=ShapeWidget.__init__
+6=ShapeWidget.mousePressEvent
+4=ShapeWidget
+-- END DICTIONARY
+-- START TREE 1
+5
+a|1|a!11@
+app|2|app!19@app!27@
+for|1|form!27@
+myw|2|MyWindow!17@mywindow!19@
+sha|1|ShapeWidget!25@
+-- END TREE
+-- START TREE 2
+4
+__i|2|__init__!4&26@__init__!5&18@
+dra|2|dragPosition!6&27@dragPosition!7&27@
+mou|2|mouseMoveEvent!4&26@mousePressEvent!4&26@
+pai|1|paintEvent!4&26@
+-- END TREE

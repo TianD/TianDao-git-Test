@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;TianDaoSinNode&apos; to &apos;TDtrigonometricNode&apos;" description="Rename resource &apos;TianDaoSinNode&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/TianDaoSinNode" name="TDtrigonometricNode" stamp="1390314701844" updateReferences="true"/>
+</session>

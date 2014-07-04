@@ -1,0 +1,2386 @@
+MODULES_MANAGER_V2
+BaseHTTPServer|E:\Tools\Houdini 12.5.316.22\python26\lib\BaseHTTPServer.py
+Bastion|E:\Tools\Houdini 12.5.316.22\python26\lib\Bastion.py
+CGIHTTPServer|E:\Tools\Houdini 12.5.316.22\python26\lib\CGIHTTPServer.py
+Canvas|E:\Python26\Lib\lib-tk\Canvas.py
+ConfigParser|E:\Python26\Lib\ConfigParser.py
+Cookie|E:\Tools\Houdini 12.5.316.22\python26\lib\Cookie.py
+Crypto.Cipher.AES|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\Cipher\AES.py
+Crypto.Cipher.ARC2|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\Cipher\ARC2.py
+Crypto.Cipher.ARC4|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\Cipher\ARC4.py
+Crypto.Cipher.Blowfish|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\Cipher\Blowfish.py
+Crypto.Cipher.CAST|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\Cipher\CAST.py
+Crypto.Cipher.DES|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\Cipher\DES.py
+Crypto.Cipher.DES3|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\Cipher\DES3.pyd
+Crypto.Cipher.PKCS1_OAEP|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\Cipher\PKCS1_OAEP.py
+Crypto.Cipher.PKCS1_v1_5|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\Cipher\PKCS1_v1_5.py
+Crypto.Cipher.XOR|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\Cipher\XOR.pyd
+Crypto.Cipher.__init__|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\Cipher\__init__.py
+Crypto.Hash.HMAC|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\Hash\HMAC.py
+Crypto.Hash.MD2|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\Hash\MD2.py
+Crypto.Hash.MD4|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\Hash\MD4.py
+Crypto.Hash.MD5|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\Hash\MD5.py
+Crypto.Hash.RIPEMD|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\Hash\RIPEMD.py
+Crypto.Hash.SHA|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\Hash\SHA.py
+Crypto.Hash.SHA224|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\Hash\SHA224.py
+Crypto.Hash.SHA256|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\Hash\SHA256.py
+Crypto.Hash.SHA384|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\Hash\SHA384.py
+Crypto.Hash.SHA512|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\Hash\SHA512.py
+Crypto.Hash._MD2|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\Hash\_MD2.pyd
+Crypto.Hash._MD4|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\Hash\_MD4.py
+Crypto.Hash._RIPEMD160|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\Hash\_RIPEMD160.py
+Crypto.Hash._SHA224|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\Hash\_SHA224.py
+Crypto.Hash._SHA256|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\Hash\_SHA256.py
+Crypto.Hash._SHA384|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\Hash\_SHA384.pyd
+Crypto.Hash._SHA512|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\Hash\_SHA512.pyd
+Crypto.Hash.__init__|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\Hash\__init__.py
+Crypto.Protocol.AllOrNothing|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\Protocol\AllOrNothing.py
+Crypto.Protocol.Chaffing|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\Protocol\Chaffing.py
+Crypto.Protocol.KDF|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\Protocol\KDF.py
+Crypto.Protocol.__init__|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\Protocol\__init__.py
+Crypto.PublicKey.DSA|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\PublicKey\DSA.py
+Crypto.PublicKey.ElGamal|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\PublicKey\ElGamal.py
+Crypto.PublicKey.RSA|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\PublicKey\RSA.py
+Crypto.PublicKey._DSA|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\PublicKey\_DSA.py
+Crypto.PublicKey._RSA|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\PublicKey\_RSA.py
+Crypto.PublicKey.__init__|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\PublicKey\__init__.py
+Crypto.PublicKey._slowmath|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\PublicKey\_slowmath.py
+Crypto.PublicKey.pubkey|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\PublicKey\pubkey.py
+Crypto.PublicKey.qNEW|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\PublicKey\qNEW.py
+Crypto.Random.Fortuna.FortunaAccumulator|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\Random\Fortuna\FortunaAccumulator.py
+Crypto.Random.Fortuna.FortunaGenerator|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\Random\Fortuna\FortunaGenerator.py
+Crypto.Random.Fortuna.SHAd256|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\Random\Fortuna\SHAd256.py
+Crypto.Random.Fortuna.__init__|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\Random\Fortuna\__init__.py
+Crypto.Random.OSRNG.__init__|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\Random\OSRNG\__init__.py
+Crypto.Random.OSRNG.fallback|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\Random\OSRNG\fallback.py
+Crypto.Random.OSRNG.nt|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\Random\OSRNG\nt.py
+Crypto.Random.OSRNG.posix|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\Random\OSRNG\posix.py
+Crypto.Random.OSRNG.rng_base|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\Random\OSRNG\rng_base.py
+Crypto.Random.OSRNG.winrandom|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\Random\OSRNG\winrandom.pyd
+Crypto.Random._UserFriendlyRNG|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\Random\_UserFriendlyRNG.py
+Crypto.Random.__init__|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\Random\__init__.py
+Crypto.Random.random|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\Random\random.py
+Crypto.SelfTest.Cipher.__init__|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\SelfTest\Cipher\__init__.py
+Crypto.SelfTest.Cipher.common|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\SelfTest\Cipher\common.py
+Crypto.SelfTest.Cipher.test_AES|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\SelfTest\Cipher\test_AES.py
+Crypto.SelfTest.Cipher.test_ARC2|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\SelfTest\Cipher\test_ARC2.py
+Crypto.SelfTest.Cipher.test_ARC4|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\SelfTest\Cipher\test_ARC4.py
+Crypto.SelfTest.Cipher.test_Blowfish|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\SelfTest\Cipher\test_Blowfish.py
+Crypto.SelfTest.Cipher.test_CAST|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\SelfTest\Cipher\test_CAST.py
+Crypto.SelfTest.Cipher.test_DES|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\SelfTest\Cipher\test_DES.py
+Crypto.SelfTest.Cipher.test_DES3|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\SelfTest\Cipher\test_DES3.py
+Crypto.SelfTest.Cipher.test_XOR|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\SelfTest\Cipher\test_XOR.py
+Crypto.SelfTest.Cipher.test_pkcs1_15|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\SelfTest\Cipher\test_pkcs1_15.py
+Crypto.SelfTest.Cipher.test_pkcs1_oaep|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\SelfTest\Cipher\test_pkcs1_oaep.py
+Crypto.SelfTest.Hash.__init__|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\SelfTest\Hash\__init__.py
+Crypto.SelfTest.Hash.common|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\SelfTest\Hash\common.py
+Crypto.SelfTest.Hash.test_HMAC|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\SelfTest\Hash\test_HMAC.py
+Crypto.SelfTest.Hash.test_MD2|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\SelfTest\Hash\test_MD2.py
+Crypto.SelfTest.Hash.test_MD4|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\SelfTest\Hash\test_MD4.py
+Crypto.SelfTest.Hash.test_MD5|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\SelfTest\Hash\test_MD5.py
+Crypto.SelfTest.Hash.test_RIPEMD|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\SelfTest\Hash\test_RIPEMD.py
+Crypto.SelfTest.Hash.test_SHA|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\SelfTest\Hash\test_SHA.py
+Crypto.SelfTest.Hash.test_SHA224|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\SelfTest\Hash\test_SHA224.py
+Crypto.SelfTest.Hash.test_SHA256|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\SelfTest\Hash\test_SHA256.py
+Crypto.SelfTest.Hash.test_SHA384|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\SelfTest\Hash\test_SHA384.py
+Crypto.SelfTest.Hash.test_SHA512|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\SelfTest\Hash\test_SHA512.py
+Crypto.SelfTest.Protocol.__init__|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\SelfTest\Protocol\__init__.py
+Crypto.SelfTest.Protocol.test_AllOrNothing|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\SelfTest\Protocol\test_AllOrNothing.py
+Crypto.SelfTest.Protocol.test_KDF|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\SelfTest\Protocol\test_KDF.py
+Crypto.SelfTest.Protocol.test_chaffing|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\SelfTest\Protocol\test_chaffing.py
+Crypto.SelfTest.Protocol.test_rfc1751|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\SelfTest\Protocol\test_rfc1751.py
+Crypto.SelfTest.PublicKey.__init__|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\SelfTest\PublicKey\__init__.py
+Crypto.SelfTest.PublicKey.test_DSA|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\SelfTest\PublicKey\test_DSA.py
+Crypto.SelfTest.PublicKey.test_RSA|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\SelfTest\PublicKey\test_RSA.py
+Crypto.SelfTest.PublicKey.test_importKey|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\SelfTest\PublicKey\test_importKey.py
+Crypto.SelfTest.Random.Fortuna.__init__|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\SelfTest\Random\Fortuna\__init__.py
+Crypto.SelfTest.Random.Fortuna.test_FortunaAccumulator|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\SelfTest\Random\Fortuna\test_FortunaAccumulator.py
+Crypto.SelfTest.Random.Fortuna.test_FortunaGenerator|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\SelfTest\Random\Fortuna\test_FortunaGenerator.py
+Crypto.SelfTest.Random.Fortuna.test_SHAd256|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\SelfTest\Random\Fortuna\test_SHAd256.py
+Crypto.SelfTest.Random.OSRNG.__init__|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\SelfTest\Random\OSRNG\__init__.py
+Crypto.SelfTest.Random.OSRNG.test_fallback|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\SelfTest\Random\OSRNG\test_fallback.py
+Crypto.SelfTest.Random.OSRNG.test_generic|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\SelfTest\Random\OSRNG\test_generic.py
+Crypto.SelfTest.Random.OSRNG.test_nt|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\SelfTest\Random\OSRNG\test_nt.py
+Crypto.SelfTest.Random.OSRNG.test_posix|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\SelfTest\Random\OSRNG\test_posix.py
+Crypto.SelfTest.Random.OSRNG.test_winrandom|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\SelfTest\Random\OSRNG\test_winrandom.py
+Crypto.SelfTest.Random.__init__|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\SelfTest\Random\__init__.py
+Crypto.SelfTest.Random.test_random|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\SelfTest\Random\test_random.py
+Crypto.SelfTest.Random.test_rpoolcompat|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\SelfTest\Random\test_rpoolcompat.py
+Crypto.SelfTest.Signature.__init__|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\SelfTest\Signature\__init__.py
+Crypto.SelfTest.Signature.test_pkcs1_15|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\SelfTest\Signature\test_pkcs1_15.py
+Crypto.SelfTest.Signature.test_pkcs1_pss|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\SelfTest\Signature\test_pkcs1_pss.py
+Crypto.SelfTest.Util.__init__|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\SelfTest\Util\__init__.py
+Crypto.SelfTest.Util.test_Counter|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\SelfTest\Util\test_Counter.py
+Crypto.SelfTest.Util.test_asn1|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\SelfTest\Util\test_asn1.py
+Crypto.SelfTest.Util.test_number|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\SelfTest\Util\test_number.py
+Crypto.SelfTest.Util.test_winrandom|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\SelfTest\Util\test_winrandom.py
+Crypto.SelfTest.__init__|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\SelfTest\__init__.py
+Crypto.SelfTest.st_common|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\SelfTest\st_common.py
+Crypto.Signature.PKCS1_PSS|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\Signature\PKCS1_PSS.py
+Crypto.Signature.PKCS1_v1_5|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\Signature\PKCS1_v1_5.py
+Crypto.Signature.__init__|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\Signature\__init__.py
+Crypto.Util.Counter|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\Util\Counter.py
+Crypto.Util.RFC1751|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\Util\RFC1751.py
+Crypto.Util.__init__|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\Util\__init__.py
+Crypto.Util._counter|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\Util\_counter.pyd
+Crypto.Util._number_new|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\Util\_number_new.py
+Crypto.Util.asn1|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\Util\asn1.py
+Crypto.Util.number|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\Util\number.py
+Crypto.Util.py21compat|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\Util\py21compat.py
+Crypto.Util.py3compat|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\Util\py3compat.py
+Crypto.Util.randpool|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\Util\randpool.py
+Crypto.Util.strxor|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\Util\strxor.py
+Crypto.Util.winrandom|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\Util\winrandom.py
+Crypto.Util.wrapper|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\Util\wrapper.py
+Crypto.__init__|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\__init__.py
+Crypto.pct_warnings|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\Crypto\pct_warnings.py
+Dialog|E:\Python26\Lib\lib-tk\Dialog.py
+DocXMLRPCServer|E:\Python26\Lib\DocXMLRPCServer.py
+EC2|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\EC2.py
+FileDialog|E:\Python26\Lib\lib-tk\FileDialog.py
+FixTk|E:\Python26\Lib\lib-tk\FixTk.py
+HTMLParser|E:\Tools\Houdini 12.5.316.22\python26\lib\HTMLParser.py
+Image
+MimeWriter|E:\Python26\Lib\MimeWriter.py
+OpenGL
+PyQt4.QAxContainer|E:\Python26\Lib\site-packages\PyQt4\QAxContainer.pyd
+PyQt4.Qsci|E:\Python26\Lib\site-packages\PyQt4\Qsci.pyd
+PyQt4.Qt|E:\Python26\Lib\site-packages\PyQt4\Qt.pyd
+PyQt4.QtCLucene4|E:\Python26\Lib\site-packages\PyQt4\QtCLucene4.dll
+PyQt4.QtCore|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\PyQt4\QtCore.pyd
+PyQt4.QtCore4|E:\Python26\Lib\site-packages\PyQt4\QtCore4.dll
+PyQt4.QtDeclarative|E:\Python26\Lib\site-packages\PyQt4\QtDeclarative.pyd
+PyQt4.QtDeclarative4|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\PyQt4\QtDeclarative4.dll
+PyQt4.QtDesigner|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\PyQt4\QtDesigner.pyd
+PyQt4.QtDesigner4|E:\Python26\Lib\site-packages\PyQt4\QtDesigner4.dll
+PyQt4.QtDesignerComponents4|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\PyQt4\QtDesignerComponents4.dll
+PyQt4.QtGui|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\PyQt4\QtGui.pyd
+PyQt4.QtGui4|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\PyQt4\QtGui4.dll
+PyQt4.QtHelp|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\PyQt4\QtHelp.pyd
+PyQt4.QtHelp4|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\PyQt4\QtHelp4.dll
+PyQt4.QtMultimedia|E:\Python26\Lib\site-packages\PyQt4\QtMultimedia.pyd
+PyQt4.QtMultimedia4|E:\Python26\Lib\site-packages\PyQt4\QtMultimedia4.dll
+PyQt4.QtNetwork|E:\Python26\Lib\site-packages\PyQt4\QtNetwork.pyd
+PyQt4.QtNetwork4|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\PyQt4\QtNetwork4.dll
+PyQt4.QtOpenGL|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\PyQt4\QtOpenGL.pyd
+PyQt4.QtOpenGL4|E:\Python26\Lib\site-packages\PyQt4\QtOpenGL4.dll
+PyQt4.QtScript|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\PyQt4\QtScript.pyd
+PyQt4.QtScript4|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\PyQt4\QtScript4.dll
+PyQt4.QtScriptTools|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\PyQt4\QtScriptTools.pyd
+PyQt4.QtScriptTools4|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\PyQt4\QtScriptTools4.dll
+PyQt4.QtSql|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\PyQt4\QtSql.pyd
+PyQt4.QtSql4|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\PyQt4\QtSql4.dll
+PyQt4.QtSvg|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\PyQt4\QtSvg.pyd
+PyQt4.QtSvg4|E:\Python26\Lib\site-packages\PyQt4\QtSvg4.dll
+PyQt4.QtTest|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\PyQt4\QtTest.pyd
+PyQt4.QtTest4|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\PyQt4\QtTest4.dll
+PyQt4.QtWebKit|E:\Python26\Lib\site-packages\PyQt4\QtWebKit.pyd
+PyQt4.QtWebKit4|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\PyQt4\QtWebKit4.dll
+PyQt4.QtXml|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\PyQt4\QtXml.pyd
+PyQt4.QtXml4|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\PyQt4\QtXml4.dll
+PyQt4.QtXmlPatterns|E:\Python26\Lib\site-packages\PyQt4\QtXmlPatterns.pyd
+PyQt4.QtXmlPatterns4|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\PyQt4\QtXmlPatterns4.dll
+PyQt4.__init__|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\PyQt4\__init__.py
+PyQt4.libeay32|E:\Python26\Lib\site-packages\PyQt4\libeay32.dll
+PyQt4.libmysql|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\PyQt4\libmysql.dll
+PyQt4.phonon|E:\Python26\Lib\site-packages\PyQt4\phonon.pyd
+PyQt4.phonon4|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\PyQt4\phonon4.dll
+PyQt4.pyqtconfig|E:\Python26\Lib\site-packages\PyQt4\pyqtconfig.py
+PyQt4.qscintilla2|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\PyQt4\qscintilla2.dll
+PyQt4.ssleay32|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\PyQt4\ssleay32.dll
+PyQt4.uic
+PyQt4.uic.Compiler.__init__|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\PyQt4\uic\Compiler\__init__.py
+PyQt4.uic.Compiler.compiler|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\PyQt4\uic\Compiler\compiler.py
+PyQt4.uic.Compiler.indenter|E:\Python26\Lib\site-packages\PyQt4\uic\Compiler\indenter.py
+PyQt4.uic.Compiler.misc|E:\Python26\Lib\site-packages\PyQt4\uic\Compiler\misc.py
+PyQt4.uic.Compiler.proxy_metaclass|E:\Python26\Lib\site-packages\PyQt4\uic\Compiler\proxy_metaclass.py
+PyQt4.uic.Compiler.proxy_type|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\PyQt4\uic\Compiler\proxy_type.py
+PyQt4.uic.Compiler.qobjectcreator|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\PyQt4\uic\Compiler\qobjectcreator.py
+PyQt4.uic.Compiler.qtproxies|E:\Python26\Lib\site-packages\PyQt4\uic\Compiler\qtproxies.py
+PyQt4.uic.Loader.__init__|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\PyQt4\uic\Loader\__init__.py
+PyQt4.uic.Loader.loader|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\PyQt4\uic\Loader\loader.py
+PyQt4.uic.Loader.qobjectcreator|E:\Python26\Lib\site-packages\PyQt4\uic\Loader\qobjectcreator.py
+PyQt4.uic.__init__|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\PyQt4\uic\__init__.py
+PyQt4.uic.driver|E:\Python26\Lib\site-packages\PyQt4\uic\driver.py
+PyQt4.uic.exceptions|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\PyQt4\uic\exceptions.py
+PyQt4.uic.icon_cache|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\PyQt4\uic\icon_cache.py
+PyQt4.uic.objcreator|E:\Python26\Lib\site-packages\PyQt4\uic\objcreator.py
+PyQt4.uic.port_v2.__init__|E:\Python26\Lib\site-packages\PyQt4\uic\port_v2\__init__.py
+PyQt4.uic.port_v2.as_string|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\PyQt4\uic\port_v2\as_string.py
+PyQt4.uic.port_v2.ascii_upper|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\PyQt4\uic\port_v2\ascii_upper.py
+PyQt4.uic.port_v2.invoke|E:\Python26\Lib\site-packages\PyQt4\uic\port_v2\invoke.py
+PyQt4.uic.port_v2.load_plugin|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\PyQt4\uic\port_v2\load_plugin.py
+PyQt4.uic.port_v2.proxy_base|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\PyQt4\uic\port_v2\proxy_base.py
+PyQt4.uic.port_v2.string_io|E:\Python26\Lib\site-packages\PyQt4\uic\port_v2\string_io.py
+PyQt4.uic.port_v3.__init__|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\PyQt4\uic\port_v3\__init__.py
+PyQt4.uic.port_v3.as_string|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\PyQt4\uic\port_v3\as_string.py
+PyQt4.uic.port_v3.ascii_upper|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\PyQt4\uic\port_v3\ascii_upper.py
+PyQt4.uic.port_v3.invoke|E:\Python26\Lib\site-packages\PyQt4\uic\port_v3\invoke.py
+PyQt4.uic.port_v3.load_plugin|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\PyQt4\uic\port_v3\load_plugin.py
+PyQt4.uic.port_v3.proxy_base|E:\Python26\Lib\site-packages\PyQt4\uic\port_v3\proxy_base.py
+PyQt4.uic.port_v3.string_io|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\PyQt4\uic\port_v3\string_io.py
+PyQt4.uic.properties|E:\Python26\Lib\site-packages\PyQt4\uic\properties.py
+PyQt4.uic.pyuic|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\PyQt4\uic\pyuic.py
+PyQt4.uic.uiparser|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\PyQt4\uic\uiparser.py
+PyQt4.untitled|E:\Python26\Lib\site-packages\PyQt4\untitled.py
+Queue|E:\Python26\Lib\Queue.py
+ScrolledText|E:\Python26\Lib\lib-tk\ScrolledText.py
+SimpleDialog|E:\Python26\Lib\lib-tk\SimpleDialog.py
+SimpleHTTPServer|E:\Tools\Houdini 12.5.316.22\python26\lib\SimpleHTTPServer.py
+SimpleXMLRPCServer|E:\Tools\Houdini 12.5.316.22\python26\lib\SimpleXMLRPCServer.py
+SocketServer|E:\Tools\Houdini 12.5.316.22\python26\lib\SocketServer.py
+StringIO|E:\Tools\Houdini 12.5.316.22\python26\lib\StringIO.py
+Tix|E:\Python26\Lib\lib-tk\Tix.py
+Tkconstants|E:\Python26\Lib\lib-tk\Tkconstants.py
+Tkdnd|E:\Python26\Lib\lib-tk\Tkdnd.py
+Tkinter|E:\Python26\Lib\lib-tk\Tkinter.py
+UserDict|E:\Tools\Houdini 12.5.316.22\python26\lib\UserDict.py
+UserList|E:\Tools\Houdini 12.5.316.22\python26\lib\UserList.py
+UserString|E:\Python26\Lib\UserString.py
+_LWPCookieJar|E:\Python26\Lib\_LWPCookieJar.py
+_MozillaCookieJar|E:\Tools\Houdini 12.5.316.22\python26\lib\_MozillaCookieJar.py
+_OpenMaya|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\_OpenMaya.pyd
+_OpenMayaAnim|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\_OpenMayaAnim.pyd
+_OpenMayaCloth|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\_OpenMayaCloth.pyd
+_OpenMayaFX|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\_OpenMayaFX.pyd
+_OpenMayaMPx|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\_OpenMayaMPx.pyd
+_OpenMayaRender|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\_OpenMayaRender.pyd
+_OpenMayaUI|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\_OpenMayaUI.pyd
+__builtin__
+__future__|E:\Tools\Houdini 12.5.316.22\python26\lib\__future__.py
+__init__|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\__init__.py
+__main__
+__phello__.foo|E:\Tools\Houdini 12.5.316.22\python26\lib\__phello__.foo.py
+_abcoll|E:\Tools\Houdini 12.5.316.22\python26\lib\_abcoll.py
+_ast
+_bisect
+_bsddb|E:\Python26\DLLs\_bsddb.pyd
+_bytesio
+_codecs
+_codecs_cn
+_codecs_hk
+_codecs_iso2022
+_codecs_jp
+_codecs_kr
+_codecs_tw
+_collections
+_csv
+_ctypes|E:\Python26\DLLs\_ctypes.pyd
+_ctypes_test|E:\Python26\DLLs\_ctypes_test.pyd
+_elementtree|E:\Python26\DLLs\_elementtree.pyd
+_fileio
+_functools
+_hashlib|E:\Python26\DLLs\_hashlib.pyd
+_heapq
+_hotshot
+_hou|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\_hou.pyd
+_json
+_locale
+_lsprof
+_md5
+_msi|E:\Python26\DLLs\_msi.pyd
+_multibytecodec
+_multiprocessing|E:\Python26\DLLs\_multiprocessing.pyd
+_random
+_sha
+_sha256
+_sha512
+_socket|E:\Python26\DLLs\_socket.pyd
+_sqlite3|E:\Python26\DLLs\_sqlite3.pyd
+_sre
+_ssl|E:\Python26\DLLs\_ssl.pyd
+_strptime|E:\Tools\Houdini 12.5.316.22\python26\lib\_strptime.py
+_struct
+_subprocess
+_symtable
+_testcapi|E:\Python26\DLLs\_testcapi.pyd
+_threading_local|E:\Tools\Houdini 12.5.316.22\python26\lib\_threading_local.py
+_tkinter|E:\Python26\DLLs\_tkinter.pyd
+_warnings
+_weakref
+_winreg
+abc|E:\Tools\Houdini 12.5.316.22\python26\lib\abc.py
+aifc|E:\Tools\Houdini 12.5.316.22\python26\lib\aifc.py
+all|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\pymel\all.py
+allapi|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\pymel\api\allapi.py
+animation|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\pymel\core\animation.py
+anydbm|E:\Tools\Houdini 12.5.316.22\python26\lib\anydbm.py
+api.OpenMaya|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\api\OpenMaya.pyd
+api.OpenMayaAnim|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\api\OpenMayaAnim.pyd
+api.__init__|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\api\__init__.py
+apicache|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\pymel\internal\apicache.py
+app.__init__|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\__init__.py
+app.baseUI|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\baseUI.py
+app.baseUI_res|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\baseUI_res.py
+app.commands|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\commands.py
+app.edl.__init__|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\edl\__init__.py
+app.edl.fcp|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\edl\fcp.py
+app.edl.importExport|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\edl\importExport.py
+app.edl.translator|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\edl\translator.py
+app.general.CommandPort|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\general\CommandPort.py
+app.general.CommandPort_res|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\general\CommandPort_res.py
+app.general.LiveUpdate|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\general\LiveUpdate.py
+app.general.LiveUpdateManager|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\general\LiveUpdateManager.py
+app.general.LiveUpdateManager_res|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\general\LiveUpdateManager_res.py
+app.general.LiveUpdate_res|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\general\LiveUpdate_res.py
+app.general.ServerRegistryMMap|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\general\ServerRegistryMMap.py
+app.general.ServerRegistryMMap_res|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\general\ServerRegistryMMap_res.py
+app.general.__init__|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\general\__init__.py
+app.general.adjustBackgroundImageWin|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\general\adjustBackgroundImageWin.py
+app.general.adjustBackgroundImageWin_res|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\general\adjustBackgroundImageWin_res.py
+app.general.createImageFormats|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\general\createImageFormats.py
+app.general.createImageFormats_res|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\general\createImageFormats_res.py
+app.general.menuItemToShelf|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\general\menuItemToShelf.py
+app.general.nodeEditor|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\general\nodeEditor.py
+app.general.nodeEditorBookmarks|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\general\nodeEditorBookmarks.py
+app.general.nodeEditorBookmarks_res|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\general\nodeEditorBookmarks_res.py
+app.general.nodeEditorMentalRayMenus|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\general\nodeEditorMentalRayMenus.py
+app.general.nodeEditorMentalRayMenus_res|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\general\nodeEditorMentalRayMenus_res.py
+app.general.nodeEditorMenus|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\general\nodeEditorMenus.py
+app.general.nodeEditorMenus_res|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\general\nodeEditorMenus_res.py
+app.general.pointOnPolyConstraint|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\general\pointOnPolyConstraint.py
+app.general.positionAlongCurve|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\general\positionAlongCurve.py
+app.general.positionAlongCurve_res|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\general\positionAlongCurve_res.py
+app.general.publishAttrToContainer|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\general\publishAttrToContainer.py
+app.general.publishAttrToContainer_res|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\general\publishAttrToContainer_res.py
+app.general.resourceBrowser|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\general\resourceBrowser.py
+app.general.resourceBrowser_res|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\general\resourceBrowser_res.py
+app.general.shelfEditorWindow|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\general\shelfEditorWindow.py
+app.general.shelfEditorWindow_res|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\general\shelfEditorWindow_res.py
+app.general.tlfavorites|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\general\tlfavorites.py
+app.general.tlfavorites_res|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\general\tlfavorites_res.py
+app.general.zipScene|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\general\zipScene.py
+app.general.zipScene_res|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\general\zipScene_res.py
+app.hik.__init__|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\hik\__init__.py
+app.hik.retargeter|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\hik\retargeter.py
+app.hik.retargeter_res|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\hik\retargeter_res.py
+app.hik.timer|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\hik\timer.py
+app.mayabullet.BulletUtils|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\mayabullet\BulletUtils.py
+app.mayabullet.BulletUtils_res|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\mayabullet\BulletUtils_res.py
+app.mayabullet.CommandWithOptionVars|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\mayabullet\CommandWithOptionVars.py
+app.mayabullet.CommandWithOptionVars_res|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\mayabullet\CommandWithOptionVars_res.py
+app.mayabullet.MayaUtils|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\mayabullet\MayaUtils.py
+app.mayabullet.MayaUtils_res|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\mayabullet\MayaUtils_res.py
+app.mayabullet.Ragdoll|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\mayabullet\Ragdoll.py
+app.mayabullet.Ragdoll_res|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\mayabullet\Ragdoll_res.py
+app.mayabullet.RigidBody|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\mayabullet\RigidBody.py
+app.mayabullet.RigidBodyConstraint|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\mayabullet\RigidBodyConstraint.py
+app.mayabullet.RigidBodyConstraintUI|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\mayabullet\RigidBodyConstraintUI.py
+app.mayabullet.RigidBodyConstraintUI_res|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\mayabullet\RigidBodyConstraintUI_res.py
+app.mayabullet.RigidBodyConstraint_res|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\mayabullet\RigidBodyConstraint_res.py
+app.mayabullet.RigidBodyUI|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\mayabullet\RigidBodyUI.py
+app.mayabullet.RigidBodyUI_res|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\mayabullet\RigidBodyUI_res.py
+app.mayabullet.RigidBody_res|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\mayabullet\RigidBody_res.py
+app.mayabullet.SoftBody|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\mayabullet\SoftBody.py
+app.mayabullet.SoftBodyConstraint|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\mayabullet\SoftBodyConstraint.py
+app.mayabullet.SoftBodyConstraint_res|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\mayabullet\SoftBodyConstraint_res.py
+app.mayabullet.SoftBodyUI|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\mayabullet\SoftBodyUI.py
+app.mayabullet.SoftBodyUI_res|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\mayabullet\SoftBodyUI_res.py
+app.mayabullet.SoftBody_res|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\mayabullet\SoftBody_res.py
+app.mayabullet.__init__|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\mayabullet\__init__.py
+app.polygons.__init__|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\polygons\__init__.py
+app.polygons.polyUtilMeshQuery|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\polygons\polyUtilMeshQuery.py
+app.startup.__init__|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\startup\__init__.py
+app.startup.basic|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\startup\basic.py
+app.startup.batch|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\startup\batch.py
+app.startup.gui|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\startup\gui.py
+app.stereo.__init__|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\stereo\__init__.py
+app.stereo.cameraSetTool|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\stereo\cameraSetTool.py
+app.stereo.cameraSetTool_res|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\stereo\cameraSetTool_res.py
+app.stereo.multiRig|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\stereo\multiRig.py
+app.stereo.multiRig_res|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\stereo\multiRig_res.py
+app.stereo.stereoCameraComplexRig|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\stereo\stereoCameraComplexRig.py
+app.stereo.stereoCameraCustomPanel|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\stereo\stereoCameraCustomPanel.py
+app.stereo.stereoCameraDefaultRig|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\stereo\stereoCameraDefaultRig.py
+app.stereo.stereoCameraErrors|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\stereo\stereoCameraErrors.py
+app.stereo.stereoCameraErrors_res|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\stereo\stereoCameraErrors_res.py
+app.stereo.stereoCameraFetchMelVar|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\stereo\stereoCameraFetchMelVar.py
+app.stereo.stereoCameraHierarchicalRig|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\stereo\stereoCameraHierarchicalRig.py
+app.stereo.stereoCameraInitStereo|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\stereo\stereoCameraInitStereo.py
+app.stereo.stereoCameraMenus|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\stereo\stereoCameraMenus.py
+app.stereo.stereoCameraMenus_res|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\stereo\stereoCameraMenus_res.py
+app.stereo.stereoCameraProxyRig|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\stereo\stereoCameraProxyRig.py
+app.stereo.stereoCameraRig|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\stereo\stereoCameraRig.py
+app.stereo.stereoCameraSets|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\stereo\stereoCameraSets.py
+app.stereo.stereoCameraSettings|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\stereo\stereoCameraSettings.py
+app.stereo.stereoCameraSettings_res|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\stereo\stereoCameraSettings_res.py
+app.stereo.stereoCameraUI|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\stereo\stereoCameraUI.py
+app.stereo.stereoCameraUILabel|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\stereo\stereoCameraUILabel.py
+app.stereo.stereoCameraUtil|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\stereo\stereoCameraUtil.py
+app.stereo.stereoRigToolEditor|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\stereo\stereoRigToolEditor.py
+app.stereo.stereoRigToolEditor_res|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\app\stereo\stereoRigToolEditor_res.py
+arguments|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\pymel\util\arguments.py
+array
+arrays|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\pymel\util\arrays.py
+assetdownload|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\assetdownload.py
+ast|E:\Tools\Houdini 12.5.316.22\python26\lib\ast.py
+asynchat|E:\Python26\Lib\asynchat.py
+asyncore|E:\Python26\Lib\asyncore.py
+atexit|E:\Tools\Houdini 12.5.316.22\python26\lib\atexit.py
+audiodev|E:\Tools\Houdini 12.5.316.22\python26\lib\audiodev.py
+audioop
+autorig.__init__|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\autorig\__init__.py
+autorig.isbodypart|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\autorig\isbodypart.py
+autorig.mocapbodypart|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\autorig\mocapbodypart.py
+autorig.mocappartmapping|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\autorig\mocappartmapping.py
+autorig.mocaprigutils|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\autorig\mocaprigutils.py
+autorig.rigtoolutils|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\autorig\rigtoolutils.py
+autorig.utils|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\autorig\utils.py
+base64|E:\Python26\Lib\base64.py
+bdb|E:\Tools\Houdini 12.5.316.22\python26\lib\bdb.py
+beaker.__init__|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\beaker\__init__.py
+beaker.cache|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\beaker\cache.py
+beaker.container|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\beaker\container.py
+beaker.converters|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\beaker\converters.py
+beaker.crypto.__init__|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\beaker\crypto\__init__.py
+beaker.crypto.jcecrypto|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\beaker\crypto\jcecrypto.py
+beaker.crypto.pbkdf2|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\beaker\crypto\pbkdf2.py
+beaker.crypto.pycrypto|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\beaker\crypto\pycrypto.py
+beaker.exceptions|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\beaker\exceptions.py
+beaker.ext.__init__|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\beaker\ext\__init__.py
+beaker.ext.database|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\beaker\ext\database.py
+beaker.ext.google|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\beaker\ext\google.py
+beaker.ext.memcached|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\beaker\ext\memcached.py
+beaker.ext.sqla|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\beaker\ext\sqla.py
+beaker.middleware|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\beaker\middleware.py
+beaker.session|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\beaker\session.py
+beaker.synchronization|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\beaker\synchronization.py
+beaker.util|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\beaker\util.py
+binascii
+binhex|E:\Tools\Houdini 12.5.316.22\python26\lib\binhex.py
+bisect|E:\Python26\Lib\bisect.py
+bsddb.__init__|E:\Python26\Lib\bsddb\__init__.py
+bsddb.db|E:\Tools\Houdini 12.5.316.22\python26\lib\bsddb\db.py
+bsddb.dbobj|E:\Tools\Houdini 12.5.316.22\python26\lib\bsddb\dbobj.py
+bsddb.dbrecio|E:\Tools\Houdini 12.5.316.22\python26\lib\bsddb\dbrecio.py
+bsddb.dbshelve|E:\Tools\Houdini 12.5.316.22\python26\lib\bsddb\dbshelve.py
+bsddb.dbtables|E:\Tools\Houdini 12.5.316.22\python26\lib\bsddb\dbtables.py
+bsddb.dbutils|E:\Tools\Houdini 12.5.316.22\python26\lib\bsddb\dbutils.py
+bsddb.test.__init__|E:\Python26\Lib\bsddb\test\__init__.py
+bsddb.test.test_all|E:\Python26\Lib\bsddb\test\test_all.py
+bsddb.test.test_associate|E:\Tools\Houdini 12.5.316.22\python26\lib\bsddb\test\test_associate.py
+bsddb.test.test_basics|E:\Tools\Houdini 12.5.316.22\python26\lib\bsddb\test\test_basics.py
+bsddb.test.test_compare|E:\Tools\Houdini 12.5.316.22\python26\lib\bsddb\test\test_compare.py
+bsddb.test.test_compat|E:\Tools\Houdini 12.5.316.22\python26\lib\bsddb\test\test_compat.py
+bsddb.test.test_cursor_pget_bug|E:\Python26\Lib\bsddb\test\test_cursor_pget_bug.py
+bsddb.test.test_dbobj|E:\Python26\Lib\bsddb\test\test_dbobj.py
+bsddb.test.test_dbshelve|E:\Python26\Lib\bsddb\test\test_dbshelve.py
+bsddb.test.test_dbtables|E:\Python26\Lib\bsddb\test\test_dbtables.py
+bsddb.test.test_distributed_transactions|E:\Python26\Lib\bsddb\test\test_distributed_transactions.py
+bsddb.test.test_early_close|E:\Python26\Lib\bsddb\test\test_early_close.py
+bsddb.test.test_get_none|E:\Python26\Lib\bsddb\test\test_get_none.py
+bsddb.test.test_join|E:\Python26\Lib\bsddb\test\test_join.py
+bsddb.test.test_lock|E:\Tools\Houdini 12.5.316.22\python26\lib\bsddb\test\test_lock.py
+bsddb.test.test_misc|E:\Tools\Houdini 12.5.316.22\python26\lib\bsddb\test\test_misc.py
+bsddb.test.test_pickle|E:\Python26\Lib\bsddb\test\test_pickle.py
+bsddb.test.test_queue|E:\Python26\Lib\bsddb\test\test_queue.py
+bsddb.test.test_recno|E:\Python26\Lib\bsddb\test\test_recno.py
+bsddb.test.test_replication|E:\Python26\Lib\bsddb\test\test_replication.py
+bsddb.test.test_sequence|E:\Tools\Houdini 12.5.316.22\python26\lib\bsddb\test\test_sequence.py
+bsddb.test.test_thread|E:\Tools\Houdini 12.5.316.22\python26\lib\bsddb\test\test_thread.py
+bz2|E:\Python26\DLLs\bz2.pyd
+cPickle
+cProfile|E:\Python26\Lib\cProfile.py
+cStringIO
+calendar|E:\Python26\Lib\calendar.py
+cgi|E:\Tools\Houdini 12.5.316.22\python26\lib\cgi.py
+cgitb|E:\Tools\Houdini 12.5.316.22\python26\lib\cgitb.py
+charactertoolutils|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\charactertoolutils.py
+chopnettoolutils|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\chopnettoolutils.py
+choptoolutils|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\choptoolutils.py
+chunk|E:\Tools\Houdini 12.5.316.22\python26\lib\chunk.py
+cloud|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\cloud.py
+cloudEULA|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\cloudEULA.py
+cloudsubmit|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\cloudsubmit.py
+cloudtoolutils|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\cloudtoolutils.py
+cmath
+cmd|E:\Python26\Lib\cmd.py
+cmdcache|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\pymel\internal\cmdcache.py
+cmds.__init__|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\cmds\__init__.py
+code|E:\Python26\Lib\code.py
+codecs|E:\Tools\Houdini 12.5.316.22\python26\lib\codecs.py
+codeop|E:\Tools\Houdini 12.5.316.22\python26\lib\codeop.py
+collections|E:\Python26\Lib\collections.py
+colorschemeutils|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\colorschemeutils.py
+colorsys|E:\Tools\Houdini 12.5.316.22\python26\lib\colorsys.py
+commands|E:\Tools\Houdini 12.5.316.22\python26\lib\commands.py
+common|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\pymel\util\common.py
+compileall|E:\Python26\Lib\compileall.py
+compiler.__init__|E:\Tools\Houdini 12.5.316.22\python26\lib\compiler\__init__.py
+compiler.ast|E:\Tools\Houdini 12.5.316.22\python26\lib\compiler\ast.py
+compiler.consts|E:\Python26\Lib\compiler\consts.py
+compiler.future|E:\Tools\Houdini 12.5.316.22\python26\lib\compiler\future.py
+compiler.misc|E:\Python26\Lib\compiler\misc.py
+compiler.pyassem|E:\Python26\Lib\compiler\pyassem.py
+compiler.pycodegen|E:\Tools\Houdini 12.5.316.22\python26\lib\compiler\pycodegen.py
+compiler.symbols|E:\Tools\Houdini 12.5.316.22\python26\lib\compiler\symbols.py
+compiler.syntax|E:\Tools\Houdini 12.5.316.22\python26\lib\compiler\syntax.py
+compiler.transformer|E:\Python26\Lib\compiler\transformer.py
+compiler.visitor|E:\Tools\Houdini 12.5.316.22\python26\lib\compiler\visitor.py
+conditions|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\pymel\util\conditions.py
+context|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\pymel\core\context.py
+contextlib|E:\Python26\Lib\contextlib.py
+cookielib|E:\Tools\Houdini 12.5.316.22\python26\lib\cookielib.py
+cop2toolutils|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\cop2toolutils.py
+copnettoolutils|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\copnettoolutils.py
+copy|E:\Python26\Lib\copy.py
+copy_reg|E:\Tools\Houdini 12.5.316.22\python26\lib\copy_reg.py
+csv|E:\Tools\Houdini 12.5.316.22\python26\lib\csv.py
+ctypes.__init__|E:\Python26\Lib\ctypes\__init__.py
+ctypes._endian|E:\Python26\Lib\ctypes\_endian.py
+ctypes.macholib.__init__|E:\Tools\Houdini 12.5.316.22\python26\lib\ctypes\macholib\__init__.py
+ctypes.macholib.dyld|E:\Python26\Lib\ctypes\macholib\dyld.py
+ctypes.macholib.dylib|E:\Python26\Lib\ctypes\macholib\dylib.py
+ctypes.macholib.framework|E:\Python26\Lib\ctypes\macholib\framework.py
+ctypes.test.__init__|E:\Python26\Lib\ctypes\test\__init__.py
+ctypes.test.runtests|E:\Python26\Lib\ctypes\test\runtests.py
+ctypes.test.test_anon|E:\Tools\Houdini 12.5.316.22\python26\lib\ctypes\test\test_anon.py
+ctypes.test.test_array_in_pointer|E:\Tools\Houdini 12.5.316.22\python26\lib\ctypes\test\test_array_in_pointer.py
+ctypes.test.test_arrays|E:\Python26\Lib\ctypes\test\test_arrays.py
+ctypes.test.test_as_parameter|E:\Tools\Houdini 12.5.316.22\python26\lib\ctypes\test\test_as_parameter.py
+ctypes.test.test_bitfields|E:\Tools\Houdini 12.5.316.22\python26\lib\ctypes\test\test_bitfields.py
+ctypes.test.test_buffers|E:\Tools\Houdini 12.5.316.22\python26\lib\ctypes\test\test_buffers.py
+ctypes.test.test_byteswap|E:\Tools\Houdini 12.5.316.22\python26\lib\ctypes\test\test_byteswap.py
+ctypes.test.test_callbacks|E:\Tools\Houdini 12.5.316.22\python26\lib\ctypes\test\test_callbacks.py
+ctypes.test.test_cast|E:\Tools\Houdini 12.5.316.22\python26\lib\ctypes\test\test_cast.py
+ctypes.test.test_cfuncs|E:\Tools\Houdini 12.5.316.22\python26\lib\ctypes\test\test_cfuncs.py
+ctypes.test.test_checkretval|E:\Python26\Lib\ctypes\test\test_checkretval.py
+ctypes.test.test_delattr|E:\Tools\Houdini 12.5.316.22\python26\lib\ctypes\test\test_delattr.py
+ctypes.test.test_errcheck|E:\Python26\Lib\ctypes\test\test_errcheck.py
+ctypes.test.test_errno|E:\Python26\Lib\ctypes\test\test_errno.py
+ctypes.test.test_find|E:\Python26\Lib\ctypes\test\test_find.py
+ctypes.test.test_frombuffer|E:\Python26\Lib\ctypes\test\test_frombuffer.py
+ctypes.test.test_funcptr|E:\Python26\Lib\ctypes\test\test_funcptr.py
+ctypes.test.test_functions|E:\Python26\Lib\ctypes\test\test_functions.py
+ctypes.test.test_incomplete|E:\Python26\Lib\ctypes\test\test_incomplete.py
+ctypes.test.test_init|E:\Python26\Lib\ctypes\test\test_init.py
+ctypes.test.test_integers|E:\Tools\Houdini 12.5.316.22\python26\lib\ctypes\test\test_integers.py
+ctypes.test.test_internals|E:\Python26\Lib\ctypes\test\test_internals.py
+ctypes.test.test_keeprefs|E:\Python26\Lib\ctypes\test\test_keeprefs.py
+ctypes.test.test_libc|E:\Python26\Lib\ctypes\test\test_libc.py
+ctypes.test.test_loading|E:\Tools\Houdini 12.5.316.22\python26\lib\ctypes\test\test_loading.py
+ctypes.test.test_macholib|E:\Tools\Houdini 12.5.316.22\python26\lib\ctypes\test\test_macholib.py
+ctypes.test.test_memfunctions|E:\Tools\Houdini 12.5.316.22\python26\lib\ctypes\test\test_memfunctions.py
+ctypes.test.test_numbers|E:\Python26\Lib\ctypes\test\test_numbers.py
+ctypes.test.test_objects|E:\Tools\Houdini 12.5.316.22\python26\lib\ctypes\test\test_objects.py
+ctypes.test.test_parameters|E:\Python26\Lib\ctypes\test\test_parameters.py
+ctypes.test.test_pep3118|E:\Python26\Lib\ctypes\test\test_pep3118.py
+ctypes.test.test_pickling|E:\Tools\Houdini 12.5.316.22\python26\lib\ctypes\test\test_pickling.py
+ctypes.test.test_pointers|E:\Tools\Houdini 12.5.316.22\python26\lib\ctypes\test\test_pointers.py
+ctypes.test.test_prototypes|E:\Tools\Houdini 12.5.316.22\python26\lib\ctypes\test\test_prototypes.py
+ctypes.test.test_python_api|E:\Tools\Houdini 12.5.316.22\python26\lib\ctypes\test\test_python_api.py
+ctypes.test.test_random_things|E:\Tools\Houdini 12.5.316.22\python26\lib\ctypes\test\test_random_things.py
+ctypes.test.test_refcounts|E:\Python26\Lib\ctypes\test\test_refcounts.py
+ctypes.test.test_repr|E:\Tools\Houdini 12.5.316.22\python26\lib\ctypes\test\test_repr.py
+ctypes.test.test_returnfuncptrs|E:\Tools\Houdini 12.5.316.22\python26\lib\ctypes\test\test_returnfuncptrs.py
+ctypes.test.test_simplesubclasses|E:\Tools\Houdini 12.5.316.22\python26\lib\ctypes\test\test_simplesubclasses.py
+ctypes.test.test_sizes|E:\Python26\Lib\ctypes\test\test_sizes.py
+ctypes.test.test_slicing|E:\Tools\Houdini 12.5.316.22\python26\lib\ctypes\test\test_slicing.py
+ctypes.test.test_stringptr|E:\Tools\Houdini 12.5.316.22\python26\lib\ctypes\test\test_stringptr.py
+ctypes.test.test_strings|E:\Python26\Lib\ctypes\test\test_strings.py
+ctypes.test.test_struct_fields|E:\Tools\Houdini 12.5.316.22\python26\lib\ctypes\test\test_struct_fields.py
+ctypes.test.test_structures|E:\Python26\Lib\ctypes\test\test_structures.py
+ctypes.test.test_unaligned_structures|E:\Tools\Houdini 12.5.316.22\python26\lib\ctypes\test\test_unaligned_structures.py
+ctypes.test.test_unicode|E:\Python26\Lib\ctypes\test\test_unicode.py
+ctypes.test.test_values|E:\Tools\Houdini 12.5.316.22\python26\lib\ctypes\test\test_values.py
+ctypes.test.test_varsize_struct|E:\Tools\Houdini 12.5.316.22\python26\lib\ctypes\test\test_varsize_struct.py
+ctypes.test.test_win32|E:\Python26\Lib\ctypes\test\test_win32.py
+ctypes.util|E:\Python26\Lib\ctypes\util.py
+ctypes.wintypes|E:\Tools\Houdini 12.5.316.22\python26\lib\ctypes\wintypes.py
+curses.__init__|E:\Tools\Houdini 12.5.316.22\python26\lib\curses\__init__.py
+curses.ascii|E:\Python26\Lib\curses\ascii.py
+curses.has_key|E:\Tools\Houdini 12.5.316.22\python26\lib\curses\has_key.py
+curses.panel|E:\Python26\Lib\curses\panel.py
+curses.textpad|E:\Python26\Lib\curses\textpad.py
+curses.wrapper|E:\Tools\Houdini 12.5.316.22\python26\lib\curses\wrapper.py
+datatypes|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\pymel\core\datatypes.py
+datetime
+dbg|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\dbg.py
+dbhash|E:\Python26\Lib\dbhash.py
+decimal|E:\Tools\Houdini 12.5.316.22\python26\lib\decimal.py
+decoration|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\pymel\util\decoration.py
+defaultstatetools|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\defaultstatetools.py
+defaulttoolmenus|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\defaulttoolmenus.py
+defaulttools|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\defaulttools.py
+demjson|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\demjson.py
+difflib|E:\Python26\Lib\difflib.py
+dircache|E:\Tools\Houdini 12.5.316.22\python26\lib\dircache.py
+dis|E:\Tools\Houdini 12.5.316.22\python26\lib\dis.py
+displaymessage|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\displaymessage.py
+distutils.__init__|E:\Python26\Lib\distutils\__init__.py
+distutils.archive_util|E:\Tools\Houdini 12.5.316.22\python26\lib\distutils\archive_util.py
+distutils.bcppcompiler|E:\Tools\Houdini 12.5.316.22\python26\lib\distutils\bcppcompiler.py
+distutils.ccompiler|E:\Python26\Lib\distutils\ccompiler.py
+distutils.cmd|E:\Tools\Houdini 12.5.316.22\python26\lib\distutils\cmd.py
+distutils.command.__init__|E:\Tools\Houdini 12.5.316.22\python26\lib\distutils\command\__init__.py
+distutils.command.bdist|E:\Tools\Houdini 12.5.316.22\python26\lib\distutils\command\bdist.py
+distutils.command.bdist_dumb|E:\Tools\Houdini 12.5.316.22\python26\lib\distutils\command\bdist_dumb.py
+distutils.command.bdist_msi|E:\Tools\Houdini 12.5.316.22\python26\lib\distutils\command\bdist_msi.py
+distutils.command.bdist_rpm|E:\Python26\Lib\distutils\command\bdist_rpm.py
+distutils.command.bdist_wininst|E:\Python26\Lib\distutils\command\bdist_wininst.py
+distutils.command.build|E:\Python26\Lib\distutils\command\build.py
+distutils.command.build_clib|E:\Tools\Houdini 12.5.316.22\python26\lib\distutils\command\build_clib.py
+distutils.command.build_ext|E:\Tools\Houdini 12.5.316.22\python26\lib\distutils\command\build_ext.py
+distutils.command.build_py|E:\Python26\Lib\distutils\command\build_py.py
+distutils.command.build_scripts|E:\Python26\Lib\distutils\command\build_scripts.py
+distutils.command.clean|E:\Python26\Lib\distutils\command\clean.py
+distutils.command.config|E:\Python26\Lib\distutils\command\config.py
+distutils.command.install|E:\Python26\Lib\distutils\command\install.py
+distutils.command.install_data|E:\Tools\Houdini 12.5.316.22\python26\lib\distutils\command\install_data.py
+distutils.command.install_egg_info|E:\Python26\Lib\distutils\command\install_egg_info.py
+distutils.command.install_headers|E:\Tools\Houdini 12.5.316.22\python26\lib\distutils\command\install_headers.py
+distutils.command.install_lib|E:\Python26\Lib\distutils\command\install_lib.py
+distutils.command.install_scripts|E:\Tools\Houdini 12.5.316.22\python26\lib\distutils\command\install_scripts.py
+distutils.command.register|E:\Tools\Houdini 12.5.316.22\python26\lib\distutils\command\register.py
+distutils.command.sdist|E:\Python26\Lib\distutils\command\sdist.py
+distutils.command.upload|E:\Tools\Houdini 12.5.316.22\python26\lib\distutils\command\upload.py
+distutils.config|E:\Python26\Lib\distutils\config.py
+distutils.core|E:\Python26\Lib\distutils\core.py
+distutils.cygwinccompiler|E:\Tools\Houdini 12.5.316.22\python26\lib\distutils\cygwinccompiler.py
+distutils.debug|E:\Python26\Lib\distutils\debug.py
+distutils.dep_util|E:\Python26\Lib\distutils\dep_util.py
+distutils.dir_util|E:\Python26\Lib\distutils\dir_util.py
+distutils.dist|E:\Tools\Houdini 12.5.316.22\python26\lib\distutils\dist.py
+distutils.emxccompiler|E:\Python26\Lib\distutils\emxccompiler.py
+distutils.errors|E:\Python26\Lib\distutils\errors.py
+distutils.extension|E:\Python26\Lib\distutils\extension.py
+distutils.fancy_getopt|E:\Python26\Lib\distutils\fancy_getopt.py
+distutils.file_util|E:\Tools\Houdini 12.5.316.22\python26\lib\distutils\file_util.py
+distutils.filelist|E:\Tools\Houdini 12.5.316.22\python26\lib\distutils\filelist.py
+distutils.log|E:\Python26\Lib\distutils\log.py
+distutils.msvc9compiler|E:\Python26\Lib\distutils\msvc9compiler.py
+distutils.msvccompiler|E:\Python26\Lib\distutils\msvccompiler.py
+distutils.mwerkscompiler|E:\Tools\Houdini 12.5.316.22\python26\lib\distutils\mwerkscompiler.py
+distutils.spawn|E:\Python26\Lib\distutils\spawn.py
+distutils.sysconfig|E:\Tools\Houdini 12.5.316.22\python26\lib\distutils\sysconfig.py
+distutils.tests.__init__|E:\Python26\Lib\distutils\tests\__init__.py
+distutils.tests.setuptools_build_ext|E:\Tools\Houdini 12.5.316.22\python26\lib\distutils\tests\setuptools_build_ext.py
+distutils.tests.setuptools_extension|E:\Tools\Houdini 12.5.316.22\python26\lib\distutils\tests\setuptools_extension.py
+distutils.tests.support|E:\Tools\Houdini 12.5.316.22\python26\lib\distutils\tests\support.py
+distutils.tests.test_bdist_wininst|E:\Tools\Houdini 12.5.316.22\python26\lib\distutils\tests\test_bdist_wininst.py
+distutils.tests.test_build_ext|E:\Python26\Lib\distutils\tests\test_build_ext.py
+distutils.tests.test_build_py|E:\Tools\Houdini 12.5.316.22\python26\lib\distutils\tests\test_build_py.py
+distutils.tests.test_build_scripts|E:\Python26\Lib\distutils\tests\test_build_scripts.py
+distutils.tests.test_config|E:\Tools\Houdini 12.5.316.22\python26\lib\distutils\tests\test_config.py
+distutils.tests.test_core|E:\Python26\Lib\distutils\tests\test_core.py
+distutils.tests.test_dist|E:\Python26\Lib\distutils\tests\test_dist.py
+distutils.tests.test_filelist|E:\Tools\Houdini 12.5.316.22\python26\lib\distutils\tests\test_filelist.py
+distutils.tests.test_install|E:\Tools\Houdini 12.5.316.22\python26\lib\distutils\tests\test_install.py
+distutils.tests.test_install_scripts|E:\Tools\Houdini 12.5.316.22\python26\lib\distutils\tests\test_install_scripts.py
+distutils.tests.test_msvc9compiler|E:\Tools\Houdini 12.5.316.22\python26\lib\distutils\tests\test_msvc9compiler.py
+distutils.tests.test_register|E:\Tools\Houdini 12.5.316.22\python26\lib\distutils\tests\test_register.py
+distutils.tests.test_sdist|E:\Tools\Houdini 12.5.316.22\python26\lib\distutils\tests\test_sdist.py
+distutils.tests.test_sysconfig|E:\Python26\Lib\distutils\tests\test_sysconfig.py
+distutils.tests.test_upload|E:\Tools\Houdini 12.5.316.22\python26\lib\distutils\tests\test_upload.py
+distutils.tests.test_versionpredicate|E:\Tools\Houdini 12.5.316.22\python26\lib\distutils\tests\test_versionpredicate.py
+distutils.text_file|E:\Tools\Houdini 12.5.316.22\python26\lib\distutils\text_file.py
+distutils.unixccompiler|E:\Python26\Lib\distutils\unixccompiler.py
+distutils.util|E:\Tools\Houdini 12.5.316.22\python26\lib\distutils\util.py
+distutils.version|E:\Tools\Houdini 12.5.316.22\python26\lib\distutils\version.py
+distutils.versionpredicate|E:\Tools\Houdini 12.5.316.22\python26\lib\distutils\versionpredicate.py
+doctest|E:\Tools\Houdini 12.5.316.22\python26\lib\doctest.py
+dopclothproxy|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\dopclothproxy.py
+dopclothtoolutils|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\dopclothtoolutils.py
+dopgeofiltertoolutils|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\dopgeofiltertoolutils.py
+dopinstance|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\dopinstance.py
+dopparticlefluidtoolutils|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\dopparticlefluidtoolutils.py
+doppoptoolutils|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\doppoptoolutils.py
+doppyrotoolutils|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\doppyrotoolutils.py
+doprbdtoolutils|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\doprbdtoolutils.py
+dopreltoolutils|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\dopreltoolutils.py
+dopsbdtoolutils|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\dopsbdtoolutils.py
+dopsmoketoolutils|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\dopsmoketoolutils.py
+dopstatictoolutils|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\dopstatictoolutils.py
+doptoolutils|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\doptoolutils.py
+dopwiretoolutils|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\dopwiretoolutils.py
+dragdroputils|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\dragdroputils.py
+drivertoolutils|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\drivertoolutils.py
+dumbdbm|E:\Tools\Houdini 12.5.316.22\python26\lib\dumbdbm.py
+dummy_thread|E:\Python26\Lib\dummy_thread.py
+dummy_threading|E:\Python26\Lib\dummy_threading.py
+easy_install|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\easy_install.py
+effects|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\pymel\core\effects.py
+email
+email.__init__|E:\Tools\Houdini 12.5.316.22\python26\lib\email\__init__.py
+email._parseaddr|E:\Tools\Houdini 12.5.316.22\python26\lib\email\_parseaddr.py
+email.base64mime|E:\Python26\Lib\email\base64mime.py
+email.charset|E:\Tools\Houdini 12.5.316.22\python26\lib\email\charset.py
+email.encoders|E:\Python26\Lib\email\encoders.py
+email.errors|E:\Python26\Lib\email\errors.py
+email.feedparser|E:\Python26\Lib\email\feedparser.py
+email.generator|E:\Tools\Houdini 12.5.316.22\python26\lib\email\generator.py
+email.header|E:\Python26\Lib\email\header.py
+email.iterators|E:\Tools\Houdini 12.5.316.22\python26\lib\email\iterators.py
+email.message|E:\Python26\Lib\email\message.py
+email.mime.__init__|E:\Python26\Lib\email\mime\__init__.py
+email.mime.application|E:\Python26\Lib\email\mime\application.py
+email.mime.audio|E:\Tools\Houdini 12.5.316.22\python26\lib\email\mime\audio.py
+email.mime.base|E:\Python26\Lib\email\mime\base.py
+email.mime.image|E:\Tools\Houdini 12.5.316.22\python26\lib\email\mime\image.py
+email.mime.message|E:\Tools\Houdini 12.5.316.22\python26\lib\email\mime\message.py
+email.mime.multipart|E:\Python26\Lib\email\mime\multipart.py
+email.mime.nonmultipart|E:\Tools\Houdini 12.5.316.22\python26\lib\email\mime\nonmultipart.py
+email.mime.text|E:\Tools\Houdini 12.5.316.22\python26\lib\email\mime\text.py
+email.parser|E:\Python26\Lib\email\parser.py
+email.quoprimime|E:\Tools\Houdini 12.5.316.22\python26\lib\email\quoprimime.py
+email.test.__init__|E:\Tools\Houdini 12.5.316.22\python26\lib\email\test\__init__.py
+email.test.test_email|E:\Tools\Houdini 12.5.316.22\python26\lib\email\test\test_email.py
+email.test.test_email_codecs|E:\Tools\Houdini 12.5.316.22\python26\lib\email\test\test_email_codecs.py
+email.test.test_email_codecs_renamed|E:\Python26\Lib\email\test\test_email_codecs_renamed.py
+email.test.test_email_renamed|E:\Python26\Lib\email\test\test_email_renamed.py
+email.test.test_email_torture|E:\Python26\Lib\email\test\test_email_torture.py
+email.utils|E:\Python26\Lib\email\utils.py
+encodings.__init__|E:\Python26\Lib\encodings\__init__.py
+encodings.aliases|E:\Tools\Houdini 12.5.316.22\python26\lib\encodings\aliases.py
+encodings.ascii|E:\Tools\Houdini 12.5.316.22\python26\lib\encodings\ascii.py
+encodings.base64_codec|E:\Tools\Houdini 12.5.316.22\python26\lib\encodings\base64_codec.py
+encodings.big5|E:\Python26\Lib\encodings\big5.py
+encodings.big5hkscs|E:\Tools\Houdini 12.5.316.22\python26\lib\encodings\big5hkscs.py
+encodings.bz2_codec|E:\Python26\Lib\encodings\bz2_codec.py
+encodings.charmap|E:\Python26\Lib\encodings\charmap.py
+encodings.cp037|E:\Python26\Lib\encodings\cp037.py
+encodings.cp1006|E:\Tools\Houdini 12.5.316.22\python26\lib\encodings\cp1006.py
+encodings.cp1026|E:\Python26\Lib\encodings\cp1026.py
+encodings.cp1140|E:\Python26\Lib\encodings\cp1140.py
+encodings.cp1250|E:\Python26\Lib\encodings\cp1250.py
+encodings.cp1251|E:\Tools\Houdini 12.5.316.22\python26\lib\encodings\cp1251.py
+encodings.cp1252|E:\Tools\Houdini 12.5.316.22\python26\lib\encodings\cp1252.py
+encodings.cp1253|E:\Tools\Houdini 12.5.316.22\python26\lib\encodings\cp1253.py
+encodings.cp1254|E:\Python26\Lib\encodings\cp1254.py
+encodings.cp1255|E:\Tools\Houdini 12.5.316.22\python26\lib\encodings\cp1255.py
+encodings.cp1256|E:\Python26\Lib\encodings\cp1256.py
+encodings.cp1257|E:\Tools\Houdini 12.5.316.22\python26\lib\encodings\cp1257.py
+encodings.cp1258|E:\Python26\Lib\encodings\cp1258.py
+encodings.cp424|E:\Tools\Houdini 12.5.316.22\python26\lib\encodings\cp424.py
+encodings.cp437|E:\Python26\Lib\encodings\cp437.py
+encodings.cp500|E:\Python26\Lib\encodings\cp500.py
+encodings.cp737|E:\Python26\Lib\encodings\cp737.py
+encodings.cp775|E:\Tools\Houdini 12.5.316.22\python26\lib\encodings\cp775.py
+encodings.cp850|E:\Python26\Lib\encodings\cp850.py
+encodings.cp852|E:\Python26\Lib\encodings\cp852.py
+encodings.cp855|E:\Python26\Lib\encodings\cp855.py
+encodings.cp856|E:\Tools\Houdini 12.5.316.22\python26\lib\encodings\cp856.py
+encodings.cp857|E:\Python26\Lib\encodings\cp857.py
+encodings.cp860|E:\Tools\Houdini 12.5.316.22\python26\lib\encodings\cp860.py
+encodings.cp861|E:\Python26\Lib\encodings\cp861.py
+encodings.cp862|E:\Tools\Houdini 12.5.316.22\python26\lib\encodings\cp862.py
+encodings.cp863|E:\Tools\Houdini 12.5.316.22\python26\lib\encodings\cp863.py
+encodings.cp864|E:\Tools\Houdini 12.5.316.22\python26\lib\encodings\cp864.py
+encodings.cp865|E:\Python26\Lib\encodings\cp865.py
+encodings.cp866|E:\Tools\Houdini 12.5.316.22\python26\lib\encodings\cp866.py
+encodings.cp869|E:\Tools\Houdini 12.5.316.22\python26\lib\encodings\cp869.py
+encodings.cp874|E:\Python26\Lib\encodings\cp874.py
+encodings.cp875|E:\Tools\Houdini 12.5.316.22\python26\lib\encodings\cp875.py
+encodings.cp932|E:\Python26\Lib\encodings\cp932.py
+encodings.cp949|E:\Python26\Lib\encodings\cp949.py
+encodings.cp950|E:\Python26\Lib\encodings\cp950.py
+encodings.euc_jis_2004|E:\Python26\Lib\encodings\euc_jis_2004.py
+encodings.euc_jisx0213|E:\Tools\Houdini 12.5.316.22\python26\lib\encodings\euc_jisx0213.py
+encodings.euc_jp|E:\Python26\Lib\encodings\euc_jp.py
+encodings.euc_kr|E:\Python26\Lib\encodings\euc_kr.py
+encodings.gb18030|E:\Tools\Houdini 12.5.316.22\python26\lib\encodings\gb18030.py
+encodings.gb2312|E:\Tools\Houdini 12.5.316.22\python26\lib\encodings\gb2312.py
+encodings.gbk|E:\Tools\Houdini 12.5.316.22\python26\lib\encodings\gbk.py
+encodings.hex_codec|E:\Python26\Lib\encodings\hex_codec.py
+encodings.hp_roman8|E:\Tools\Houdini 12.5.316.22\python26\lib\encodings\hp_roman8.py
+encodings.hz|E:\Python26\Lib\encodings\hz.py
+encodings.idna|E:\Python26\Lib\encodings\idna.py
+encodings.iso2022_jp|E:\Python26\Lib\encodings\iso2022_jp.py
+encodings.iso2022_jp_1|E:\Python26\Lib\encodings\iso2022_jp_1.py
+encodings.iso2022_jp_2|E:\Python26\Lib\encodings\iso2022_jp_2.py
+encodings.iso2022_jp_2004|E:\Tools\Houdini 12.5.316.22\python26\lib\encodings\iso2022_jp_2004.py
+encodings.iso2022_jp_3|E:\Python26\Lib\encodings\iso2022_jp_3.py
+encodings.iso2022_jp_ext|E:\Tools\Houdini 12.5.316.22\python26\lib\encodings\iso2022_jp_ext.py
+encodings.iso2022_kr|E:\Tools\Houdini 12.5.316.22\python26\lib\encodings\iso2022_kr.py
+encodings.iso8859_1|E:\Python26\Lib\encodings\iso8859_1.py
+encodings.iso8859_10|E:\Python26\Lib\encodings\iso8859_10.py
+encodings.iso8859_11|E:\Tools\Houdini 12.5.316.22\python26\lib\encodings\iso8859_11.py
+encodings.iso8859_13|E:\Python26\Lib\encodings\iso8859_13.py
+encodings.iso8859_14|E:\Tools\Houdini 12.5.316.22\python26\lib\encodings\iso8859_14.py
+encodings.iso8859_15|E:\Python26\Lib\encodings\iso8859_15.py
+encodings.iso8859_16|E:\Python26\Lib\encodings\iso8859_16.py
+encodings.iso8859_2|E:\Python26\Lib\encodings\iso8859_2.py
+encodings.iso8859_3|E:\Python26\Lib\encodings\iso8859_3.py
+encodings.iso8859_4|E:\Tools\Houdini 12.5.316.22\python26\lib\encodings\iso8859_4.py
+encodings.iso8859_5|E:\Python26\Lib\encodings\iso8859_5.py
+encodings.iso8859_6|E:\Tools\Houdini 12.5.316.22\python26\lib\encodings\iso8859_6.py
+encodings.iso8859_7|E:\Python26\Lib\encodings\iso8859_7.py
+encodings.iso8859_8|E:\Tools\Houdini 12.5.316.22\python26\lib\encodings\iso8859_8.py
+encodings.iso8859_9|E:\Python26\Lib\encodings\iso8859_9.py
+encodings.johab|E:\Python26\Lib\encodings\johab.py
+encodings.koi8_r|E:\Python26\Lib\encodings\koi8_r.py
+encodings.koi8_u|E:\Python26\Lib\encodings\koi8_u.py
+encodings.latin_1|E:\Python26\Lib\encodings\latin_1.py
+encodings.mac_arabic|E:\Python26\Lib\encodings\mac_arabic.py
+encodings.mac_centeuro|E:\Python26\Lib\encodings\mac_centeuro.py
+encodings.mac_croatian|E:\Tools\Houdini 12.5.316.22\python26\lib\encodings\mac_croatian.py
+encodings.mac_cyrillic|E:\Python26\Lib\encodings\mac_cyrillic.py
+encodings.mac_farsi|E:\Python26\Lib\encodings\mac_farsi.py
+encodings.mac_greek|E:\Tools\Houdini 12.5.316.22\python26\lib\encodings\mac_greek.py
+encodings.mac_iceland|E:\Tools\Houdini 12.5.316.22\python26\lib\encodings\mac_iceland.py
+encodings.mac_latin2|E:\Tools\Houdini 12.5.316.22\python26\lib\encodings\mac_latin2.py
+encodings.mac_roman|E:\Python26\Lib\encodings\mac_roman.py
+encodings.mac_romanian|E:\Python26\Lib\encodings\mac_romanian.py
+encodings.mac_turkish|E:\Python26\Lib\encodings\mac_turkish.py
+encodings.mbcs|E:\Python26\Lib\encodings\mbcs.py
+encodings.palmos|E:\Tools\Houdini 12.5.316.22\python26\lib\encodings\palmos.py
+encodings.ptcp154|E:\Tools\Houdini 12.5.316.22\python26\lib\encodings\ptcp154.py
+encodings.punycode|E:\Python26\Lib\encodings\punycode.py
+encodings.quopri_codec|E:\Tools\Houdini 12.5.316.22\python26\lib\encodings\quopri_codec.py
+encodings.raw_unicode_escape|E:\Python26\Lib\encodings\raw_unicode_escape.py
+encodings.rot_13|E:\Python26\Lib\encodings\rot_13.py
+encodings.shift_jis|E:\Python26\Lib\encodings\shift_jis.py
+encodings.shift_jis_2004|E:\Python26\Lib\encodings\shift_jis_2004.py
+encodings.shift_jisx0213|E:\Tools\Houdini 12.5.316.22\python26\lib\encodings\shift_jisx0213.py
+encodings.string_escape|E:\Tools\Houdini 12.5.316.22\python26\lib\encodings\string_escape.py
+encodings.tis_620|E:\Python26\Lib\encodings\tis_620.py
+encodings.undefined|E:\Python26\Lib\encodings\undefined.py
+encodings.unicode_escape|E:\Python26\Lib\encodings\unicode_escape.py
+encodings.unicode_internal|E:\Python26\Lib\encodings\unicode_internal.py
+encodings.utf_16|E:\Python26\Lib\encodings\utf_16.py
+encodings.utf_16_be|E:\Tools\Houdini 12.5.316.22\python26\lib\encodings\utf_16_be.py
+encodings.utf_16_le|E:\Tools\Houdini 12.5.316.22\python26\lib\encodings\utf_16_le.py
+encodings.utf_32|E:\Python26\Lib\encodings\utf_32.py
+encodings.utf_32_be|E:\Python26\Lib\encodings\utf_32_be.py
+encodings.utf_32_le|E:\Python26\Lib\encodings\utf_32_le.py
+encodings.utf_7|E:\Tools\Houdini 12.5.316.22\python26\lib\encodings\utf_7.py
+encodings.utf_8|E:\Tools\Houdini 12.5.316.22\python26\lib\encodings\utf_8.py
+encodings.utf_8_sig|E:\Python26\Lib\encodings\utf_8_sig.py
+encodings.uu_codec|E:\Tools\Houdini 12.5.316.22\python26\lib\encodings\uu_codec.py
+encodings.zlib_codec|E:\Tools\Houdini 12.5.316.22\python26\lib\encodings\zlib_codec.py
+enum|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\pymel\util\enum.py
+envparse|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\pymel\tools\envparse.py
+errno
+exceptions
+expression_functions.__init__|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\expression_functions\__init__.py
+expression_functions.exprhelper|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\expression_functions\exprhelper.py
+expression_functions.matrix|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\expression_functions\matrix.py
+expression_functions.opdigits|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\expression_functions\opdigits.py
+expression_functions.vector|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\expression_functions\vector.py
+external.BeautifulSoup|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\pymel\util\external\BeautifulSoup.py
+external.__init__|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\pymel\util\external\__init__.py
+external.ply.__init__|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\pymel\util\external\ply\__init__.py
+external.ply.cpp|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\pymel\util\external\ply\cpp.py
+external.ply.ctokens|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\pymel\util\external\ply\ctokens.py
+external.ply.lex|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\pymel\util\external\ply\lex.py
+external.ply.yacc|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\pymel\util\external\ply\yacc.py
+factories|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\pymel\internal\factories.py
+filecmp|E:\Tools\Houdini 12.5.316.22\python26\lib\filecmp.py
+fileinput|E:\Python26\Lib\fileinput.py
+fnmatch|E:\Tools\Houdini 12.5.316.22\python26\lib\fnmatch.py
+formatter|E:\Tools\Houdini 12.5.316.22\python26\lib\formatter.py
+fpformat|E:\Tools\Houdini 12.5.316.22\python26\lib\fpformat.py
+fractions|E:\Python26\Lib\fractions.py
+ftplib|E:\Python26\Lib\ftplib.py
+functools|E:\Tools\Houdini 12.5.316.22\python26\lib\functools.py
+future_builtins
+gasresizedynamic|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\gasresizedynamic.py
+gc
+general|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\pymel\core\general.py
+generateHDAToolsForOTL|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\generateHDAToolsForOTL.py
+genericpath|E:\Python26\Lib\genericpath.py
+genshi.__init__|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\genshi\__init__.py
+genshi._speedups|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\genshi\_speedups.pyd
+genshi.builder|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\genshi\builder.py
+genshi.core|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\genshi\core.py
+genshi.filters.__init__|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\genshi\filters\__init__.py
+genshi.filters.html|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\genshi\filters\html.py
+genshi.filters.i18n|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\genshi\filters\i18n.py
+genshi.filters.transform|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\genshi\filters\transform.py
+genshi.input|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\genshi\input.py
+genshi.output|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\genshi\output.py
+genshi.path|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\genshi\path.py
+genshi.template.__init__|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\genshi\template\__init__.py
+genshi.template.base|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\genshi\template\base.py
+genshi.template.directives|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\genshi\template\directives.py
+genshi.template.eval|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\genshi\template\eval.py
+genshi.template.interpolation|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\genshi\template\interpolation.py
+genshi.template.loader|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\genshi\template\loader.py
+genshi.template.markup|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\genshi\template\markup.py
+genshi.template.plugin|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\genshi\template\plugin.py
+genshi.template.text|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\genshi\template\text.py
+genshi.util|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\genshi\util.py
+getopt|E:\Tools\Houdini 12.5.316.22\python26\lib\getopt.py
+getpass|E:\Python26\Lib\getpass.py
+gettext|E:\Python26\Lib\gettext.py
+glob|E:\Tools\Houdini 12.5.316.22\python26\lib\glob.py
+gzip|E:\Tools\Houdini 12.5.316.22\python26\lib\gzip.py
+hashlib|E:\Tools\Houdini 12.5.316.22\python26\lib\hashlib.py
+hdefereval|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\hdefereval.py
+heapq|E:\Python26\Lib\heapq.py
+hjson|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\hjson.pyd
+hjsonrpc|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\hjsonrpc.py
+hmac|E:\Tools\Houdini 12.5.316.22\python26\lib\hmac.py
+hotshot.__init__|E:\Python26\Lib\hotshot\__init__.py
+hotshot.log|E:\Tools\Houdini 12.5.316.22\python26\lib\hotshot\log.py
+hotshot.stats|E:\Tools\Houdini 12.5.316.22\python26\lib\hotshot\stats.py
+hotshot.stones|E:\Tools\Houdini 12.5.316.22\python26\lib\hotshot\stones.py
+hou|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\hou.py
+houdiniInterpreter|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\houdiniInterpreter.py
+houdinihelp.__init__|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\houdinihelp\__init__.py
+houdinihelp.coloring|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\houdinihelp\coloring.py
+houdinihelp.commands|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\houdinihelp\commands.py
+houdinihelp.htrees|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\houdinihelp\htrees.py
+houdinihelp.indexing|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\houdinihelp\indexing.py
+houdinihelp.providers|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\houdinihelp\providers.py
+houdinihelp.util|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\houdinihelp\util.py
+houdinihelp.wiki|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\houdinihelp\wiki.py
+houdinihelp.wsgi|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\houdinihelp\wsgi.py
+houdiniinternals|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\houdiniinternals.py
+houpythonportion|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\houpythonportion.py
+houxmlrpc|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\houxmlrpc.py
+hqrop|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\hqrop.py
+hrpyc|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\hrpyc.py
+hscp|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\hscp.py
+htext|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\htext.pyd
+htmlentitydefs|E:\Python26\Lib\htmlentitydefs.py
+htmllib|E:\Tools\Houdini 12.5.316.22\python26\lib\htmllib.py
+httplib|E:\Tools\Houdini 12.5.316.22\python26\lib\httplib.py
+hutil.__init__|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\hutil\__init__.py
+hutil.cppinline|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\hutil\cppinline.py
+hutil.daemon|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\hutil\daemon.py
+hutil.debug|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\hutil\debug.py
+hutil.enum|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\hutil\enum.py
+hutil.file|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\hutil\file.py
+hutil.ipaddress|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\hutil\ipaddress.py
+hutil.json|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\hutil\json.py
+hutil.log|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\hutil\log.py
+hutil.parsecppsig|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\hutil\parsecppsig.py
+hutil.pidfile|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\hutil\pidfile.py
+hutil.pyrpc|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\hutil\pyrpc.py
+hutil.username|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\hutil\username.py
+hutil.web|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\hutil\web.py
+idlelib.AutoComplete|E:\Python26\Lib\idlelib\AutoComplete.py
+idlelib.AutoCompleteWindow|E:\Tools\Houdini 12.5.316.22\python26\lib\idlelib\AutoCompleteWindow.py
+idlelib.AutoExpand|E:\Python26\Lib\idlelib\AutoExpand.py
+idlelib.Bindings|E:\Python26\Lib\idlelib\Bindings.py
+idlelib.CallTipWindow|E:\Python26\Lib\idlelib\CallTipWindow.py
+idlelib.CallTips|E:\Tools\Houdini 12.5.316.22\python26\lib\idlelib\CallTips.py
+idlelib.ClassBrowser|E:\Tools\Houdini 12.5.316.22\python26\lib\idlelib\ClassBrowser.py
+idlelib.CodeContext|E:\Python26\Lib\idlelib\CodeContext.py
+idlelib.ColorDelegator|E:\Tools\Houdini 12.5.316.22\python26\lib\idlelib\ColorDelegator.py
+idlelib.Debugger|E:\Tools\Houdini 12.5.316.22\python26\lib\idlelib\Debugger.py
+idlelib.Delegator|E:\Tools\Houdini 12.5.316.22\python26\lib\idlelib\Delegator.py
+idlelib.EditorWindow|E:\Tools\Houdini 12.5.316.22\python26\lib\idlelib\EditorWindow.py
+idlelib.FileList|E:\Tools\Houdini 12.5.316.22\python26\lib\idlelib\FileList.py
+idlelib.FormatParagraph|E:\Tools\Houdini 12.5.316.22\python26\lib\idlelib\FormatParagraph.py
+idlelib.GrepDialog|E:\Tools\Houdini 12.5.316.22\python26\lib\idlelib\GrepDialog.py
+idlelib.HyperParser|E:\Tools\Houdini 12.5.316.22\python26\lib\idlelib\HyperParser.py
+idlelib.IOBinding|E:\Tools\Houdini 12.5.316.22\python26\lib\idlelib\IOBinding.py
+idlelib.IdleHistory|E:\Tools\Houdini 12.5.316.22\python26\lib\idlelib\IdleHistory.py
+idlelib.MultiCall|E:\Python26\Lib\idlelib\MultiCall.py
+idlelib.MultiStatusBar|E:\Python26\Lib\idlelib\MultiStatusBar.py
+idlelib.ObjectBrowser|E:\Python26\Lib\idlelib\ObjectBrowser.py
+idlelib.OutputWindow|E:\Tools\Houdini 12.5.316.22\python26\lib\idlelib\OutputWindow.py
+idlelib.ParenMatch|E:\Tools\Houdini 12.5.316.22\python26\lib\idlelib\ParenMatch.py
+idlelib.PathBrowser|E:\Python26\Lib\idlelib\PathBrowser.py
+idlelib.Percolator|E:\Tools\Houdini 12.5.316.22\python26\lib\idlelib\Percolator.py
+idlelib.PyParse|E:\Tools\Houdini 12.5.316.22\python26\lib\idlelib\PyParse.py
+idlelib.PyShell|E:\Python26\Lib\idlelib\PyShell.py
+idlelib.RemoteDebugger|E:\Tools\Houdini 12.5.316.22\python26\lib\idlelib\RemoteDebugger.py
+idlelib.RemoteObjectBrowser|E:\Tools\Houdini 12.5.316.22\python26\lib\idlelib\RemoteObjectBrowser.py
+idlelib.ReplaceDialog|E:\Tools\Houdini 12.5.316.22\python26\lib\idlelib\ReplaceDialog.py
+idlelib.ScriptBinding|E:\Python26\Lib\idlelib\ScriptBinding.py
+idlelib.ScrolledList|E:\Tools\Houdini 12.5.316.22\python26\lib\idlelib\ScrolledList.py
+idlelib.SearchDialog|E:\Tools\Houdini 12.5.316.22\python26\lib\idlelib\SearchDialog.py
+idlelib.SearchDialogBase|E:\Tools\Houdini 12.5.316.22\python26\lib\idlelib\SearchDialogBase.py
+idlelib.SearchEngine|E:\Python26\Lib\idlelib\SearchEngine.py
+idlelib.StackViewer|E:\Tools\Houdini 12.5.316.22\python26\lib\idlelib\StackViewer.py
+idlelib.ToolTip|E:\Python26\Lib\idlelib\ToolTip.py
+idlelib.TreeWidget|E:\Tools\Houdini 12.5.316.22\python26\lib\idlelib\TreeWidget.py
+idlelib.UndoDelegator|E:\Tools\Houdini 12.5.316.22\python26\lib\idlelib\UndoDelegator.py
+idlelib.WidgetRedirector|E:\Python26\Lib\idlelib\WidgetRedirector.py
+idlelib.WindowList|E:\Python26\Lib\idlelib\WindowList.py
+idlelib.ZoomHeight|E:\Python26\Lib\idlelib\ZoomHeight.py
+idlelib.__init__|E:\Python26\Lib\idlelib\__init__.py
+idlelib.aboutDialog|E:\Python26\Lib\idlelib\aboutDialog.py
+idlelib.configDialog|E:\Tools\Houdini 12.5.316.22\python26\lib\idlelib\configDialog.py
+idlelib.configHandler|E:\Tools\Houdini 12.5.316.22\python26\lib\idlelib\configHandler.py
+idlelib.configHelpSourceEdit|E:\Python26\Lib\idlelib\configHelpSourceEdit.py
+idlelib.configSectionNameDialog|E:\Tools\Houdini 12.5.316.22\python26\lib\idlelib\configSectionNameDialog.py
+idlelib.dynOptionMenuWidget|E:\Python26\Lib\idlelib\dynOptionMenuWidget.py
+idlelib.idle|E:\Python26\Lib\idlelib\idle.pyw
+idlelib.idlever|E:\Tools\Houdini 12.5.316.22\python26\lib\idlelib\idlever.py
+idlelib.keybindingDialog|E:\Tools\Houdini 12.5.316.22\python26\lib\idlelib\keybindingDialog.py
+idlelib.macosxSupport|E:\Python26\Lib\idlelib\macosxSupport.py
+idlelib.rpc|E:\Tools\Houdini 12.5.316.22\python26\lib\idlelib\rpc.py
+idlelib.run|E:\Tools\Houdini 12.5.316.22\python26\lib\idlelib\run.py
+idlelib.tabbedpages|E:\Tools\Houdini 12.5.316.22\python26\lib\idlelib\tabbedpages.py
+idlelib.testcode|E:\Tools\Houdini 12.5.316.22\python26\lib\idlelib\testcode.py
+idlelib.textView|E:\Python26\Lib\idlelib\textView.py
+ihooks|E:\Python26\Lib\ihooks.py
+imageop
+imaplib|E:\Python26\Lib\imaplib.py
+imghdr|E:\Python26\Lib\imghdr.py
+imp
+imputil|E:\Python26\Lib\imputil.py
+index|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\index.py
+index_help_examples|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\index_help_examples.py
+index_help_pages|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\index_help_pages.py
+inlinecpp|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\inlinecpp.py
+inspect|E:\Python26\Lib\inspect.py
+introspect|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\introspect.py
+io|E:\Tools\Houdini 12.5.316.22\python26\lib\io.py
+ipymel|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\pymel\tools\ipymel.py
+itertools
+json.__init__|E:\Python26\Lib\json\__init__.py
+json.decoder|E:\Tools\Houdini 12.5.316.22\python26\lib\json\decoder.py
+json.encoder|E:\Tools\Houdini 12.5.316.22\python26\lib\json\encoder.py
+json.scanner|E:\Python26\Lib\json\scanner.py
+json.tests.__init__|E:\Python26\Lib\json\tests\__init__.py
+json.tests.test_decode|E:\Tools\Houdini 12.5.316.22\python26\lib\json\tests\test_decode.py
+json.tests.test_default|E:\Python26\Lib\json\tests\test_default.py
+json.tests.test_dump|E:\Tools\Houdini 12.5.316.22\python26\lib\json\tests\test_dump.py
+json.tests.test_encode_basestring_ascii|E:\Tools\Houdini 12.5.316.22\python26\lib\json\tests\test_encode_basestring_ascii.py
+json.tests.test_fail|E:\Python26\Lib\json\tests\test_fail.py
+json.tests.test_float|E:\Tools\Houdini 12.5.316.22\python26\lib\json\tests\test_float.py
+json.tests.test_indent|E:\Tools\Houdini 12.5.316.22\python26\lib\json\tests\test_indent.py
+json.tests.test_pass1|E:\Tools\Houdini 12.5.316.22\python26\lib\json\tests\test_pass1.py
+json.tests.test_pass2|E:\Tools\Houdini 12.5.316.22\python26\lib\json\tests\test_pass2.py
+json.tests.test_pass3|E:\Tools\Houdini 12.5.316.22\python26\lib\json\tests\test_pass3.py
+json.tests.test_recursion|E:\Tools\Houdini 12.5.316.22\python26\lib\json\tests\test_recursion.py
+json.tests.test_scanstring|E:\Tools\Houdini 12.5.316.22\python26\lib\json\tests\test_scanstring.py
+json.tests.test_separators|E:\Tools\Houdini 12.5.316.22\python26\lib\json\tests\test_separators.py
+json.tests.test_speedups|E:\Tools\Houdini 12.5.316.22\python26\lib\json\tests\test_speedups.py
+json.tests.test_unicode|E:\Python26\Lib\json\tests\test_unicode.py
+json.tool|E:\Tools\Houdini 12.5.316.22\python26\lib\json\tool.py
+keyword|E:\Tools\Houdini 12.5.316.22\python26\lib\keyword.py
+language|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\pymel\core\language.py
+lib2to3.__init__|E:\Tools\Houdini 12.5.316.22\python26\lib\lib2to3\__init__.py
+lib2to3.fixer_base|E:\Tools\Houdini 12.5.316.22\python26\lib\lib2to3\fixer_base.py
+lib2to3.fixer_util|E:\Python26\Lib\lib2to3\fixer_util.py
+lib2to3.fixes.__init__|E:\Python26\Lib\lib2to3\fixes\__init__.py
+lib2to3.fixes.fix_apply|E:\Python26\Lib\lib2to3\fixes\fix_apply.py
+lib2to3.fixes.fix_basestring|E:\Tools\Houdini 12.5.316.22\python26\lib\lib2to3\fixes\fix_basestring.py
+lib2to3.fixes.fix_buffer|E:\Python26\Lib\lib2to3\fixes\fix_buffer.py
+lib2to3.fixes.fix_callable|E:\Python26\Lib\lib2to3\fixes\fix_callable.py
+lib2to3.fixes.fix_dict|E:\Tools\Houdini 12.5.316.22\python26\lib\lib2to3\fixes\fix_dict.py
+lib2to3.fixes.fix_except|E:\Python26\Lib\lib2to3\fixes\fix_except.py
+lib2to3.fixes.fix_exec|E:\Python26\Lib\lib2to3\fixes\fix_exec.py
+lib2to3.fixes.fix_execfile|E:\Python26\Lib\lib2to3\fixes\fix_execfile.py
+lib2to3.fixes.fix_filter|E:\Python26\Lib\lib2to3\fixes\fix_filter.py
+lib2to3.fixes.fix_funcattrs|E:\Python26\Lib\lib2to3\fixes\fix_funcattrs.py
+lib2to3.fixes.fix_future|E:\Python26\Lib\lib2to3\fixes\fix_future.py
+lib2to3.fixes.fix_getcwdu|E:\Tools\Houdini 12.5.316.22\python26\lib\lib2to3\fixes\fix_getcwdu.py
+lib2to3.fixes.fix_has_key|E:\Python26\Lib\lib2to3\fixes\fix_has_key.py
+lib2to3.fixes.fix_idioms|E:\Python26\Lib\lib2to3\fixes\fix_idioms.py
+lib2to3.fixes.fix_import|E:\Tools\Houdini 12.5.316.22\python26\lib\lib2to3\fixes\fix_import.py
+lib2to3.fixes.fix_imports|E:\Python26\Lib\lib2to3\fixes\fix_imports.py
+lib2to3.fixes.fix_imports2|E:\Tools\Houdini 12.5.316.22\python26\lib\lib2to3\fixes\fix_imports2.py
+lib2to3.fixes.fix_input|E:\Tools\Houdini 12.5.316.22\python26\lib\lib2to3\fixes\fix_input.py
+lib2to3.fixes.fix_intern|E:\Python26\Lib\lib2to3\fixes\fix_intern.py
+lib2to3.fixes.fix_isinstance|E:\Tools\Houdini 12.5.316.22\python26\lib\lib2to3\fixes\fix_isinstance.py
+lib2to3.fixes.fix_itertools|E:\Tools\Houdini 12.5.316.22\python26\lib\lib2to3\fixes\fix_itertools.py
+lib2to3.fixes.fix_itertools_imports|E:\Tools\Houdini 12.5.316.22\python26\lib\lib2to3\fixes\fix_itertools_imports.py
+lib2to3.fixes.fix_long|E:\Tools\Houdini 12.5.316.22\python26\lib\lib2to3\fixes\fix_long.py
+lib2to3.fixes.fix_map|E:\Python26\Lib\lib2to3\fixes\fix_map.py
+lib2to3.fixes.fix_metaclass|E:\Python26\Lib\lib2to3\fixes\fix_metaclass.py
+lib2to3.fixes.fix_methodattrs|E:\Tools\Houdini 12.5.316.22\python26\lib\lib2to3\fixes\fix_methodattrs.py
+lib2to3.fixes.fix_ne|E:\Python26\Lib\lib2to3\fixes\fix_ne.py
+lib2to3.fixes.fix_next|E:\Tools\Houdini 12.5.316.22\python26\lib\lib2to3\fixes\fix_next.py
+lib2to3.fixes.fix_nonzero|E:\Tools\Houdini 12.5.316.22\python26\lib\lib2to3\fixes\fix_nonzero.py
+lib2to3.fixes.fix_numliterals|E:\Python26\Lib\lib2to3\fixes\fix_numliterals.py
+lib2to3.fixes.fix_paren|E:\Tools\Houdini 12.5.316.22\python26\lib\lib2to3\fixes\fix_paren.py
+lib2to3.fixes.fix_print|E:\Python26\Lib\lib2to3\fixes\fix_print.py
+lib2to3.fixes.fix_raise|E:\Python26\Lib\lib2to3\fixes\fix_raise.py
+lib2to3.fixes.fix_raw_input|E:\Tools\Houdini 12.5.316.22\python26\lib\lib2to3\fixes\fix_raw_input.py
+lib2to3.fixes.fix_reduce|E:\Tools\Houdini 12.5.316.22\python26\lib\lib2to3\fixes\fix_reduce.py
+lib2to3.fixes.fix_renames|E:\Python26\Lib\lib2to3\fixes\fix_renames.py
+lib2to3.fixes.fix_repr|E:\Python26\Lib\lib2to3\fixes\fix_repr.py
+lib2to3.fixes.fix_set_literal|E:\Tools\Houdini 12.5.316.22\python26\lib\lib2to3\fixes\fix_set_literal.py
+lib2to3.fixes.fix_standarderror|E:\Python26\Lib\lib2to3\fixes\fix_standarderror.py
+lib2to3.fixes.fix_sys_exc|E:\Python26\Lib\lib2to3\fixes\fix_sys_exc.py
+lib2to3.fixes.fix_throw|E:\Tools\Houdini 12.5.316.22\python26\lib\lib2to3\fixes\fix_throw.py
+lib2to3.fixes.fix_tuple_params|E:\Tools\Houdini 12.5.316.22\python26\lib\lib2to3\fixes\fix_tuple_params.py
+lib2to3.fixes.fix_types|E:\Tools\Houdini 12.5.316.22\python26\lib\lib2to3\fixes\fix_types.py
+lib2to3.fixes.fix_unicode|E:\Tools\Houdini 12.5.316.22\python26\lib\lib2to3\fixes\fix_unicode.py
+lib2to3.fixes.fix_urllib|E:\Python26\Lib\lib2to3\fixes\fix_urllib.py
+lib2to3.fixes.fix_ws_comma|E:\Python26\Lib\lib2to3\fixes\fix_ws_comma.py
+lib2to3.fixes.fix_xrange|E:\Python26\Lib\lib2to3\fixes\fix_xrange.py
+lib2to3.fixes.fix_xreadlines|E:\Tools\Houdini 12.5.316.22\python26\lib\lib2to3\fixes\fix_xreadlines.py
+lib2to3.fixes.fix_zip|E:\Tools\Houdini 12.5.316.22\python26\lib\lib2to3\fixes\fix_zip.py
+lib2to3.main|E:\Python26\Lib\lib2to3\main.py
+lib2to3.patcomp|E:\Python26\Lib\lib2to3\patcomp.py
+lib2to3.pgen2.__init__|E:\Tools\Houdini 12.5.316.22\python26\lib\lib2to3\pgen2\__init__.py
+lib2to3.pgen2.conv|E:\Python26\Lib\lib2to3\pgen2\conv.py
+lib2to3.pgen2.driver|E:\Tools\Houdini 12.5.316.22\python26\lib\lib2to3\pgen2\driver.py
+lib2to3.pgen2.grammar|E:\Tools\Houdini 12.5.316.22\python26\lib\lib2to3\pgen2\grammar.py
+lib2to3.pgen2.literals|E:\Python26\Lib\lib2to3\pgen2\literals.py
+lib2to3.pgen2.parse|E:\Tools\Houdini 12.5.316.22\python26\lib\lib2to3\pgen2\parse.py
+lib2to3.pgen2.pgen|E:\Python26\Lib\lib2to3\pgen2\pgen.py
+lib2to3.pgen2.token|E:\Tools\Houdini 12.5.316.22\python26\lib\lib2to3\pgen2\token.py
+lib2to3.pgen2.tokenize|E:\Tools\Houdini 12.5.316.22\python26\lib\lib2to3\pgen2\tokenize.py
+lib2to3.pygram|E:\Python26\Lib\lib2to3\pygram.py
+lib2to3.pytree|E:\Tools\Houdini 12.5.316.22\python26\lib\lib2to3\pytree.py
+lib2to3.refactor|E:\Python26\Lib\lib2to3\refactor.py
+lib2to3.tests.__init__|E:\Tools\Houdini 12.5.316.22\python26\lib\lib2to3\tests\__init__.py
+lib2to3.tests.benchmark|E:\Python26\Lib\lib2to3\tests\benchmark.py
+lib2to3.tests.pytree_idempotency|E:\Python26\Lib\lib2to3\tests\pytree_idempotency.py
+lib2to3.tests.support|E:\Tools\Houdini 12.5.316.22\python26\lib\lib2to3\tests\support.py
+lib2to3.tests.test_all_fixers|E:\Python26\Lib\lib2to3\tests\test_all_fixers.py
+lib2to3.tests.test_fixers|E:\Python26\Lib\lib2to3\tests\test_fixers.py
+lib2to3.tests.test_parser|E:\Python26\Lib\lib2to3\tests\test_parser.py
+lib2to3.tests.test_pytree|E:\Python26\Lib\lib2to3\tests\test_pytree.py
+lib2to3.tests.test_refactor|E:\Python26\Lib\lib2to3\tests\test_refactor.py
+lib2to3.tests.test_util|E:\Python26\Lib\lib2to3\tests\test_util.py
+linecache|E:\Tools\Houdini 12.5.316.22\python26\lib\linecache.py
+loadHelpcardOTLExample|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\loadHelpcardOTLExample.py
+locale|E:\Python26\Lib\locale.py
+logging.__init__|E:\Tools\Houdini 12.5.316.22\python26\lib\logging\__init__.py
+logging.config|E:\Tools\Houdini 12.5.316.22\python26\lib\logging\config.py
+logging.handlers|E:\Tools\Houdini 12.5.316.22\python26\lib\logging\handlers.py
+loggingControl|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\pymel\tools\loggingControl.py
+lxml.ElementInclude|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\lxml\ElementInclude.py
+lxml.__init__|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\lxml\__init__.py
+lxml._elementpath|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\lxml\_elementpath.py
+lxml.builder|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\lxml\builder.py
+lxml.cssselect|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\lxml\cssselect.py
+lxml.doctestcompare|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\lxml\doctestcompare.py
+lxml.etree|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\lxml\etree.pyd
+lxml.html.ElementSoup|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\lxml\html\ElementSoup.py
+lxml.html.__init__|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\lxml\html\__init__.py
+lxml.html._dictmixin|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\lxml\html\_dictmixin.py
+lxml.html._diffcommand|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\lxml\html\_diffcommand.py
+lxml.html._html5builder|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\lxml\html\_html5builder.py
+lxml.html._setmixin|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\lxml\html\_setmixin.py
+lxml.html.builder|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\lxml\html\builder.py
+lxml.html.clean|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\lxml\html\clean.py
+lxml.html.defs|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\lxml\html\defs.py
+lxml.html.diff|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\lxml\html\diff.py
+lxml.html.formfill|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\lxml\html\formfill.py
+lxml.html.html5parser|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\lxml\html\html5parser.py
+lxml.html.soupparser|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\lxml\html\soupparser.py
+lxml.html.usedoctest|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\lxml\html\usedoctest.py
+lxml.libexslt|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\lxml\libexslt.dll
+lxml.libxml2|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\lxml\libxml2.dll
+lxml.libxslt|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\lxml\libxslt.dll
+lxml.objectify|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\lxml\objectify.py
+lxml.pyclasslookup|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\lxml\pyclasslookup.py
+lxml.sax|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\lxml\sax.py
+lxml.usedoctest|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\lxml\usedoctest.py
+macpath|E:\Tools\Houdini 12.5.316.22\python26\lib\macpath.py
+macurl2path|E:\Python26\Lib\macurl2path.py
+mailbox|E:\Python26\Lib\mailbox.py
+mailcap|E:\Python26\Lib\mailcap.py
+mako.__init__|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\mako\__init__.py
+mako._ast_util|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\mako\_ast_util.py
+mako.ast|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\mako\ast.py
+mako.cache|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\mako\cache.py
+mako.codegen|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\mako\codegen.py
+mako.exceptions|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\mako\exceptions.py
+mako.ext.__init__|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\mako\ext\__init__.py
+mako.ext.autohandler|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\mako\ext\autohandler.py
+mako.ext.babelplugin|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\mako\ext\babelplugin.py
+mako.ext.preprocessors|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\mako\ext\preprocessors.py
+mako.ext.pygmentplugin|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\mako\ext\pygmentplugin.py
+mako.ext.turbogears|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\mako\ext\turbogears.py
+mako.filters|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\mako\filters.py
+mako.lexer|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\mako\lexer.py
+mako.lookup|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\mako\lookup.py
+mako.parsetree|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\mako\parsetree.py
+mako.pygen|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\mako\pygen.py
+mako.pyparser|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\mako\pyparser.py
+mako.runtime|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\mako\runtime.py
+mako.template|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\mako\template.py
+mako.util|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\mako\util.py
+markupbase|E:\Python26\Lib\markupbase.py
+marshal
+math
+mathutils|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\pymel\util\mathutils.py
+maya|E:\Tools\Autodesk\Maya 2013\Maya2013\devkit\other\pymel\extras\completion\pypredef\maya.pypredef
+maya.OpenMaya
+maya.OpenMayaAnim|E:\Tools\Autodesk\Maya 2013\Maya2013\devkit\other\pymel\extras\completion\pypredef\maya.OpenMayaAnim.pypredef
+maya.OpenMayaMPx|E:\Tools\Autodesk\Maya 2013\Maya2013\devkit\other\pymel\extras\completion\pypredef\maya.OpenMayaMPx.pypredef
+maya.OpenMayaUI
+maya.app.commands|E:\Tools\Autodesk\Maya 2013\Maya2013\devkit\other\pymel\extras\completion\pypredef\maya.app.commands.pypredef
+maya.cmds
+maya.mel
+mayautils|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\pymel\mayautils.py
+md5|E:\Tools\Houdini 12.5.316.22\python26\lib\md5.py
+mel.__init__|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\mel\__init__.py
+mel.melutils|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\mel\melutils.py
+mel2py.__init__|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\pymel\tools\mel2py\__init__.py
+mel2py.mellex|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\pymel\tools\mel2py\mellex.py
+mel2py.melparse|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\pymel\tools\mel2py\melparse.py
+mel2py.melscan|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\pymel\tools\mel2py\melscan.py
+mel2py.ui|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\pymel\tools\mel2py\ui.py
+mel2pyCommand|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\pymel\tools\mel2pyCommand.py
+metaexpr|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\metaexpr.py
+mhlib|E:\Python26\Lib\mhlib.py
+mimetools|E:\Tools\Houdini 12.5.316.22\python26\lib\mimetools.py
+mimetypes|E:\Python26\Lib\mimetypes.py
+mimify|E:\Tools\Houdini 12.5.316.22\python26\lib\mimify.py
+mmap
+modeling|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\pymel\core\modeling.py
+modulefinder|E:\Tools\Houdini 12.5.316.22\python26\lib\modulefinder.py
+msilib.__init__|E:\Python26\Lib\msilib\__init__.py
+msilib.schema|E:\Tools\Houdini 12.5.316.22\python26\lib\msilib\schema.py
+msilib.sequence|E:\Python26\Lib\msilib\sequence.py
+msilib.text|E:\Python26\Lib\msilib\text.py
+msvcr90|E:\Python26\msvcr90.dll
+msvcrt
+multifile|E:\Tools\Houdini 12.5.316.22\python26\lib\multifile.py
+multiprocessing.__init__|E:\Python26\Lib\multiprocessing\__init__.py
+multiprocessing.connection|E:\Python26\Lib\multiprocessing\connection.py
+multiprocessing.dummy.__init__|E:\Python26\Lib\multiprocessing\dummy\__init__.py
+multiprocessing.dummy.connection|E:\Python26\Lib\multiprocessing\dummy\connection.py
+multiprocessing.forking|E:\Python26\Lib\multiprocessing\forking.py
+multiprocessing.heap|E:\Tools\Houdini 12.5.316.22\python26\lib\multiprocessing\heap.py
+multiprocessing.managers|E:\Tools\Houdini 12.5.316.22\python26\lib\multiprocessing\managers.py
+multiprocessing.pool|E:\Tools\Houdini 12.5.316.22\python26\lib\multiprocessing\pool.py
+multiprocessing.process|E:\Python26\Lib\multiprocessing\process.py
+multiprocessing.queues|E:\Tools\Houdini 12.5.316.22\python26\lib\multiprocessing\queues.py
+multiprocessing.reduction|E:\Python26\Lib\multiprocessing\reduction.py
+multiprocessing.sharedctypes|E:\Tools\Houdini 12.5.316.22\python26\lib\multiprocessing\sharedctypes.py
+multiprocessing.synchronize|E:\Python26\Lib\multiprocessing\synchronize.py
+multiprocessing.util|E:\Tools\Houdini 12.5.316.22\python26\lib\multiprocessing\util.py
+mutex|E:\Python26\Lib\mutex.py
+mvexportutils|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\mvexportutils.py
+namedtuple|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\pymel\util\namedtuple.py
+nameparse|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\pymel\util\nameparse.py
+netrc|E:\Tools\Houdini 12.5.316.22\python26\lib\netrc.py
+new|E:\Tools\Houdini 12.5.316.22\python26\lib\new.py
+nntplib|E:\Tools\Houdini 12.5.316.22\python26\lib\nntplib.py
+nodetypes|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\pymel\core\nodetypes.py
+nose.__init__|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\nose\__init__.py
+nose.case|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\nose\case.py
+nose.commands|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\nose\commands.py
+nose.config|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\nose\config.py
+nose.core|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\nose\core.py
+nose.exc|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\nose\exc.py
+nose.ext.__init__|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\nose\ext\__init__.py
+nose.ext.dtcompat|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\nose\ext\dtcompat.py
+nose.failure|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\nose\failure.py
+nose.importer|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\nose\importer.py
+nose.inspector|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\nose\inspector.py
+nose.loader|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\nose\loader.py
+nose.plugins.__init__|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\nose\plugins\__init__.py
+nose.plugins.allmodules|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\nose\plugins\allmodules.py
+nose.plugins.attrib|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\nose\plugins\attrib.py
+nose.plugins.base|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\nose\plugins\base.py
+nose.plugins.builtin|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\nose\plugins\builtin.py
+nose.plugins.capture|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\nose\plugins\capture.py
+nose.plugins.collect|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\nose\plugins\collect.py
+nose.plugins.cover|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\nose\plugins\cover.py
+nose.plugins.debug|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\nose\plugins\debug.py
+nose.plugins.deprecated|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\nose\plugins\deprecated.py
+nose.plugins.doctests|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\nose\plugins\doctests.py
+nose.plugins.errorclass|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\nose\plugins\errorclass.py
+nose.plugins.failuredetail|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\nose\plugins\failuredetail.py
+nose.plugins.isolate|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\nose\plugins\isolate.py
+nose.plugins.logcapture|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\nose\plugins\logcapture.py
+nose.plugins.manager|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\nose\plugins\manager.py
+nose.plugins.multiprocess|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\nose\plugins\multiprocess.py
+nose.plugins.plugintest|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\nose\plugins\plugintest.py
+nose.plugins.prof|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\nose\plugins\prof.py
+nose.plugins.skip|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\nose\plugins\skip.py
+nose.plugins.testid|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\nose\plugins\testid.py
+nose.plugins.xunit|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\nose\plugins\xunit.py
+nose.proxy|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\nose\proxy.py
+nose.pyversion|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\nose\pyversion.py
+nose.result|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\nose\result.py
+nose.selector|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\nose\selector.py
+nose.sphinx.__init__|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\nose\sphinx\__init__.py
+nose.sphinx.pluginopts|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\nose\sphinx\pluginopts.py
+nose.suite|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\nose\suite.py
+nose.tools|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\nose\tools.py
+nose.twistedtools|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\nose\twistedtools.py
+nose.util|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\nose\util.py
+nt
+ntpath|E:\Tools\Houdini 12.5.316.22\python26\lib\ntpath.py
+nturl2path|E:\Tools\Houdini 12.5.316.22\python26\lib\nturl2path.py
+numbers|E:\Python26\Lib\numbers.py
+numpy
+objectParser|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\pymel\util\objectParser.py
+objecttoolutils|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\objecttoolutils.py
+opcode|E:\Tools\Houdini 12.5.316.22\python26\lib\opcode.py
+operator
+optparse|E:\Python26\Lib\optparse.py
+os|E:\Python26\Lib\os.py
+os.path
+os2emxpath|E:\Python26\Lib\os2emxpath.py
+other|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\pymel\core\other.py
+paramiko.__init__|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paramiko\__init__.py
+paramiko.agent|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paramiko\agent.py
+paramiko.auth_handler|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paramiko\auth_handler.py
+paramiko.ber|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paramiko\ber.py
+paramiko.buffered_pipe|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paramiko\buffered_pipe.py
+paramiko.channel|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paramiko\channel.py
+paramiko.client|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paramiko\client.py
+paramiko.common|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paramiko\common.py
+paramiko.compress|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paramiko\compress.py
+paramiko.config|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paramiko\config.py
+paramiko.dsskey|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paramiko\dsskey.py
+paramiko.file|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paramiko\file.py
+paramiko.hostkeys|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paramiko\hostkeys.py
+paramiko.kex_gex|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paramiko\kex_gex.py
+paramiko.kex_group1|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paramiko\kex_group1.py
+paramiko.logging22|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paramiko\logging22.py
+paramiko.message|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paramiko\message.py
+paramiko.packet|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paramiko\packet.py
+paramiko.pipe|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paramiko\pipe.py
+paramiko.pkey|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paramiko\pkey.py
+paramiko.primes|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paramiko\primes.py
+paramiko.resource|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paramiko\resource.py
+paramiko.rng|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paramiko\rng.py
+paramiko.rng_posix|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paramiko\rng_posix.py
+paramiko.rng_win32|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paramiko\rng_win32.py
+paramiko.rsakey|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paramiko\rsakey.py
+paramiko.server|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paramiko\server.py
+paramiko.sftp|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paramiko\sftp.py
+paramiko.sftp_attr|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paramiko\sftp_attr.py
+paramiko.sftp_client|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paramiko\sftp_client.py
+paramiko.sftp_file|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paramiko\sftp_file.py
+paramiko.sftp_handle|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paramiko\sftp_handle.py
+paramiko.sftp_server|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paramiko\sftp_server.py
+paramiko.sftp_si|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paramiko\sftp_si.py
+paramiko.ssh_exception|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paramiko\ssh_exception.py
+paramiko.transport|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paramiko\transport.py
+paramiko.util|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paramiko\util.py
+paramiko.win_pageant|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paramiko\win_pageant.py
+parser
+parsers|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\pymel\internal\parsers.py
+particletoolutils|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\particletoolutils.py
+paste.__init__|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\__init__.py
+paste.auth.__init__|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\auth\__init__.py
+paste.auth.auth_tkt|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\auth\auth_tkt.py
+paste.auth.basic|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\auth\basic.py
+paste.auth.cas|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\auth\cas.py
+paste.auth.cookie|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\auth\cookie.py
+paste.auth.digest|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\auth\digest.py
+paste.auth.form|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\auth\form.py
+paste.auth.grantip|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\auth\grantip.py
+paste.auth.multi|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\auth\multi.py
+paste.auth.open_id|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\auth\open_id.py
+paste.cascade|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\cascade.py
+paste.cgiapp|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\cgiapp.py
+paste.cgitb_catcher|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\cgitb_catcher.py
+paste.config|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\config.py
+paste.debug.__init__|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\debug\__init__.py
+paste.debug.debugapp|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\debug\debugapp.py
+paste.debug.doctest_webapp|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\debug\doctest_webapp.py
+paste.debug.fsdiff|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\debug\fsdiff.py
+paste.debug.prints|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\debug\prints.py
+paste.debug.profile|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\debug\profile.py
+paste.debug.testserver|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\debug\testserver.py
+paste.debug.watchthreads|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\debug\watchthreads.py
+paste.debug.wdg_validate|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\debug\wdg_validate.py
+paste.deploy.__init__|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\deploy\__init__.py
+paste.deploy.config|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\deploy\config.py
+paste.deploy.converters|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\deploy\converters.py
+paste.deploy.epdesc|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\deploy\epdesc.py
+paste.deploy.interfaces|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\deploy\interfaces.py
+paste.deploy.loadwsgi|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\deploy\loadwsgi.py
+paste.deploy.paster_templates|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\deploy\paster_templates.py
+paste.deploy.util.__init__|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\deploy\util\__init__.py
+paste.deploy.util.fixtypeerror|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\deploy\util\fixtypeerror.py
+paste.deploy.util.threadinglocal|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\deploy\util\threadinglocal.py
+paste.errordocument|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\errordocument.py
+paste.evalexception.__init__|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\evalexception\__init__.py
+paste.evalexception.evalcontext|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\evalexception\evalcontext.py
+paste.evalexception.middleware|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\evalexception\middleware.py
+paste.exceptions.__init__|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\exceptions\__init__.py
+paste.exceptions.collector|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\exceptions\collector.py
+paste.exceptions.errormiddleware|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\exceptions\errormiddleware.py
+paste.exceptions.formatter|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\exceptions\formatter.py
+paste.exceptions.reporter|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\exceptions\reporter.py
+paste.exceptions.serial_number_generator|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\exceptions\serial_number_generator.py
+paste.fileapp|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\fileapp.py
+paste.fixture|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\fixture.py
+paste.flup_session|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\flup_session.py
+paste.gzipper|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\gzipper.py
+paste.httpexceptions|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\httpexceptions.py
+paste.httpheaders|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\httpheaders.py
+paste.httpserver|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\httpserver.py
+paste.lint|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\lint.py
+paste.modpython|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\modpython.py
+paste.pony|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\pony.py
+paste.progress|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\progress.py
+paste.proxy|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\proxy.py
+paste.recursive|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\recursive.py
+paste.registry|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\registry.py
+paste.reloader|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\reloader.py
+paste.request|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\request.py
+paste.response|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\response.py
+paste.script.__init__|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\script\__init__.py
+paste.script.appinstall|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\script\appinstall.py
+paste.script.bool_optparse|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\script\bool_optparse.py
+paste.script.cgi_server|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\script\cgi_server.py
+paste.script.checkperms|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\script\checkperms.py
+paste.script.cherrypy_server|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\script\cherrypy_server.py
+paste.script.command|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\script\command.py
+paste.script.copydir|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\script\copydir.py
+paste.script.create_distro|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\script\create_distro.py
+paste.script.default_sysconfig|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\script\default_sysconfig.py
+paste.script.entrypoints|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\script\entrypoints.py
+paste.script.epdesc|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\script\epdesc.py
+paste.script.exe|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\script\exe.py
+paste.script.filemaker|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\script\filemaker.py
+paste.script.flup_server|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\script\flup_server.py
+paste.script.grep|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\script\grep.py
+paste.script.help|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\script\help.py
+paste.script.interfaces|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\script\interfaces.py
+paste.script.pluginlib|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\script\pluginlib.py
+paste.script.request|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\script\request.py
+paste.script.serve|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\script\serve.py
+paste.script.templates|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\script\templates.py
+paste.script.testapp|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\script\testapp.py
+paste.script.twisted_web2_server|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\script\twisted_web2_server.py
+paste.script.util.__init__|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\script\util\__init__.py
+paste.script.util.logging_config|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\script\util\logging_config.py
+paste.script.util.secret|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\script\util\secret.py
+paste.script.util.string24|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\script\util\string24.py
+paste.script.util.subprocess24|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\script\util\subprocess24.py
+paste.script.util.uuid|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\script\util\uuid.py
+paste.script.wsgiserver.__init__|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\script\wsgiserver\__init__.py
+paste.script.wsgiutils_server|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\script\wsgiutils_server.py
+paste.session|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\session.py
+paste.transaction|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\transaction.py
+paste.translogger|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\translogger.py
+paste.url|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\url.py
+paste.urlmap|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\urlmap.py
+paste.urlparser|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\urlparser.py
+paste.util.PySourceColor|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\util\PySourceColor.py
+paste.util.UserDict24|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\util\UserDict24.py
+paste.util.__init__|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\util\__init__.py
+paste.util.classinit|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\util\classinit.py
+paste.util.classinstance|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\util\classinstance.py
+paste.util.converters|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\util\converters.py
+paste.util.dateinterval|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\util\dateinterval.py
+paste.util.datetimeutil|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\util\datetimeutil.py
+paste.util.doctest24|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\util\doctest24.py
+paste.util.filemixin|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\util\filemixin.py
+paste.util.finddata|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\util\finddata.py
+paste.util.findpackage|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\util\findpackage.py
+paste.util.import_string|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\util\import_string.py
+paste.util.intset|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\util\intset.py
+paste.util.ip4|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\util\ip4.py
+paste.util.killthread|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\util\killthread.py
+paste.util.looper|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\util\looper.py
+paste.util.mimeparse|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\util\mimeparse.py
+paste.util.multidict|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\util\multidict.py
+paste.util.quoting|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\util\quoting.py
+paste.util.scgiserver|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\util\scgiserver.py
+paste.util.string24|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\util\string24.py
+paste.util.subprocess24|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\util\subprocess24.py
+paste.util.template|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\util\template.py
+paste.util.threadedprint|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\util\threadedprint.py
+paste.util.threadinglocal|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\util\threadinglocal.py
+paste.wsgilib|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\wsgilib.py
+paste.wsgiwrappers|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\paste\wsgiwrappers.py
+path|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\pymel\util\path.py
+pdb|E:\Tools\Houdini 12.5.316.22\python26\lib\pdb.py
+perfmon_sum|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\perfmon_sum.py
+pickle|E:\Python26\Lib\pickle.py
+pickletools|E:\Tools\Houdini 12.5.316.22\python26\lib\pickletools.py
+picklezip|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\pymel\util\picklezip.py
+pipes|E:\Tools\Houdini 12.5.316.22\python26\lib\pipes.py
+pkg_resources|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\pkg_resources.py
+pkgutil|E:\Python26\Lib\pkgutil.py
+platform|E:\Tools\Houdini 12.5.316.22\python26\lib\platform.py
+plistlib|E:\Tools\Houdini 12.5.316.22\python26\lib\plistlib.py
+plogging|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\pymel\internal\plogging.py
+plugins|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\pymel\api\plugins.py
+pmcmds|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\pymel\internal\pmcmds.py
+popen2|E:\Python26\Lib\popen2.py
+poplib|E:\Tools\Houdini 12.5.316.22\python26\lib\poplib.py
+poptoolutils|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\poptoolutils.py
+posixfile|E:\Python26\Lib\posixfile.py
+posixpath|E:\Tools\Houdini 12.5.316.22\python26\lib\posixpath.py
+poster.__init__|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\poster\__init__.py
+poster.encode|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\poster\encode.py
+poster.streaminghttp|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\poster\streaminghttp.py
+pprint|E:\Tools\Houdini 12.5.316.22\python26\lib\pprint.py
+precomp|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\precomp.py
+profile|E:\Python26\Lib\profile.py
+pstats|E:\Python26\Lib\pstats.py
+pty|E:\Python26\Lib\pty.py
+pwarnings|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\pymel\internal\pwarnings.py
+py2mel|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\pymel\tools\py2mel.py
+py_compile|E:\Python26\Lib\py_compile.py
+pyclbr|E:\Tools\Houdini 12.5.316.22\python26\lib\pyclbr.py
+pydoc|E:\Tools\Houdini 12.5.316.22\python26\lib\pydoc.py
+pydoc_topics|E:\Tools\Houdini 12.5.316.22\python26\lib\pydoc_topics.py
+pyexpat|E:\Python26\DLLs\pyexpat.pyd
+pygments.__init__|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\pygments\__init__.py
+pygments.cmdline|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\pygments\cmdline.py
+pygments.console|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\pygments\console.py
+pygments.filter|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\pygments\filter.py
+pygments.filters.__init__|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\pygments\filters\__init__.py
+pygments.formatter|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\pygments\formatter.py
+pygments.formatters.__init__|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\pygments\formatters\__init__.py
+pygments.formatters._mapping|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\pygments\formatters\_mapping.py
+pygments.formatters.bbcode|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\pygments\formatters\bbcode.py
+pygments.formatters.html|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\pygments\formatters\html.py
+pygments.formatters.img|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\pygments\formatters\img.py
+pygments.formatters.latex|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\pygments\formatters\latex.py
+pygments.formatters.other|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\pygments\formatters\other.py
+pygments.formatters.rtf|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\pygments\formatters\rtf.py
+pygments.formatters.svg|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\pygments\formatters\svg.py
+pygments.formatters.terminal|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\pygments\formatters\terminal.py
+pygments.formatters.terminal256|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\pygments\formatters\terminal256.py
+pygments.lexer|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\pygments\lexer.py
+pygments.lexers.__init__|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\pygments\lexers\__init__.py
+pygments.lexers._clbuiltins|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\pygments\lexers\_clbuiltins.py
+pygments.lexers._luabuiltins|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\pygments\lexers\_luabuiltins.py
+pygments.lexers._mapping|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\pygments\lexers\_mapping.py
+pygments.lexers._phpbuiltins|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\pygments\lexers\_phpbuiltins.py
+pygments.lexers._vimbuiltins|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\pygments\lexers\_vimbuiltins.py
+pygments.lexers.agile|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\pygments\lexers\agile.py
+pygments.lexers.asm|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\pygments\lexers\asm.py
+pygments.lexers.compiled|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\pygments\lexers\compiled.py
+pygments.lexers.dotnet|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\pygments\lexers\dotnet.py
+pygments.lexers.functional|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\pygments\lexers\functional.py
+pygments.lexers.math|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\pygments\lexers\math.py
+pygments.lexers.other|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\pygments\lexers\other.py
+pygments.lexers.special|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\pygments\lexers\special.py
+pygments.lexers.templates|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\pygments\lexers\templates.py
+pygments.lexers.text|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\pygments\lexers\text.py
+pygments.lexers.web|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\pygments\lexers\web.py
+pygments.plugin|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\pygments\plugin.py
+pygments.scanner|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\pygments\scanner.py
+pygments.style|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\pygments\style.py
+pygments.styles.__init__|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\pygments\styles\__init__.py
+pygments.styles.autumn|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\pygments\styles\autumn.py
+pygments.styles.borland|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\pygments\styles\borland.py
+pygments.styles.bw|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\pygments\styles\bw.py
+pygments.styles.colorful|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\pygments\styles\colorful.py
+pygments.styles.default|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\pygments\styles\default.py
+pygments.styles.emacs|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\pygments\styles\emacs.py
+pygments.styles.friendly|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\pygments\styles\friendly.py
+pygments.styles.fruity|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\pygments\styles\fruity.py
+pygments.styles.manni|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\pygments\styles\manni.py
+pygments.styles.murphy|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\pygments\styles\murphy.py
+pygments.styles.native|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\pygments\styles\native.py
+pygments.styles.pastie|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\pygments\styles\pastie.py
+pygments.styles.perldoc|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\pygments\styles\perldoc.py
+pygments.styles.tango|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\pygments\styles\tango.py
+pygments.styles.trac|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\pygments\styles\trac.py
+pygments.styles.vim|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\pygments\styles\vim.py
+pygments.styles.vs|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\pygments\styles\vs.py
+pygments.token|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\pygments\token.py
+pygments.unistring|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\pygments\unistring.py
+pygments.util|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\pygments\util.py
+pymel|E:\Tools\Autodesk\Maya 2013\Maya2013\devkit\other\pymel\extras\completion\pypredef\pymel.pypredef
+pymel.core
+pymel.core.animation|E:\Tools\Autodesk\Maya 2013\Maya2013\devkit\other\pymel\extras\completion\pypredef\pymel.core.animation.pypredef
+pymel.core.context|E:\Tools\Autodesk\Maya 2013\Maya2013\devkit\other\pymel\extras\completion\pypredef\pymel.core.context.pypredef
+pymel.core.effects|E:\Tools\Autodesk\Maya 2013\Maya2013\devkit\other\pymel\extras\completion\pypredef\pymel.core.effects.pypredef
+pymel.core.general|E:\Tools\Autodesk\Maya 2013\Maya2013\devkit\other\pymel\extras\completion\pypredef\pymel.core.general.pypredef
+pymel.core.language|E:\Tools\Autodesk\Maya 2013\Maya2013\devkit\other\pymel\extras\completion\pypredef\pymel.core.language.pypredef
+pymel.core.modeling|E:\Tools\Autodesk\Maya 2013\Maya2013\devkit\other\pymel\extras\completion\pypredef\pymel.core.modeling.pypredef
+pymel.core.other|E:\Tools\Autodesk\Maya 2013\Maya2013\devkit\other\pymel\extras\completion\pypredef\pymel.core.other.pypredef
+pymel.core.rendering|E:\Tools\Autodesk\Maya 2013\Maya2013\devkit\other\pymel\extras\completion\pypredef\pymel.core.rendering.pypredef
+pymel.core.system|E:\Tools\Autodesk\Maya 2013\Maya2013\devkit\other\pymel\extras\completion\pypredef\pymel.core.system.pypredef
+pymel.core.uitypes|E:\Tools\Autodesk\Maya 2013\Maya2013\devkit\other\pymel\extras\completion\pypredef\pymel.core.uitypes.pypredef
+pymel.core.windows|E:\Tools\Autodesk\Maya 2013\Maya2013\devkit\other\pymel\extras\completion\pypredef\pymel.core.windows.pypredef
+pymel.internal.pmcmds|E:\Tools\Autodesk\Maya 2013\Maya2013\devkit\other\pymel\extras\completion\pypredef\pymel.internal.pmcmds.pypredef
+pymel.internal.pwarnings|E:\Tools\Autodesk\Maya 2013\Maya2013\devkit\other\pymel\extras\completion\pypredef\pymel.internal.pwarnings.pypredef
+pymel.util.decoration|E:\Tools\Autodesk\Maya 2013\Maya2013\devkit\other\pymel\extras\completion\pypredef\pymel.util.decoration.pypredef
+pymel.util.path|E:\Tools\Autodesk\Maya 2013\Maya2013\devkit\other\pymel\extras\completion\pypredef\pymel.util.path.pypredef
+pymel.util.scanf|E:\Tools\Autodesk\Maya 2013\Maya2013\devkit\other\pymel\extras\completion\pypredef\pymel.util.scanf.pypredef
+pyro2|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\pyro2.py
+pytest
+python26|E:\Python26\python26.dll
+quopri|E:\Python26\Lib\quopri.py
+random|E:\Tools\Houdini 12.5.316.22\python26\lib\random.py
+re|E:\Python26\Lib\re.py
+rendering|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\pymel\core\rendering.py
+rendertracker|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\rendertracker.py
+repr|E:\Tools\Houdini 12.5.316.22\python26\lib\repr.py
+rexec|E:\Tools\Houdini 12.5.316.22\python26\lib\rexec.py
+rfc822|E:\Tools\Houdini 12.5.316.22\python26\lib\rfc822.py
+rlcompleter|E:\Tools\Houdini 12.5.316.22\python26\lib\rlcompleter.py
+rmands|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\rmands.py
+robotparser|E:\Tools\Houdini 12.5.316.22\python26\lib\robotparser.py
+roptoolutils|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\roptoolutils.py
+rpyc.__init__|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\rpyc\__init__.py
+rpyc.core.__init__|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\rpyc\core\__init__.py
+rpyc.core.async|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\rpyc\core\async.py
+rpyc.core.brine|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\rpyc\core\brine.py
+rpyc.core.channel|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\rpyc\core\channel.py
+rpyc.core.consts|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\rpyc\core\consts.py
+rpyc.core.netref|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\rpyc\core\netref.py
+rpyc.core.protocol|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\rpyc\core\protocol.py
+rpyc.core.service|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\rpyc\core\service.py
+rpyc.core.stream|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\rpyc\core\stream.py
+rpyc.core.vinegar|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\rpyc\core\vinegar.py
+rpyc.license|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\rpyc\license.py
+rpyc.servers.__init__|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\rpyc\servers\__init__.py
+rpyc.servers.classic_server|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\rpyc\servers\classic_server.py
+rpyc.servers.registry_server|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\rpyc\servers\registry_server.py
+rpyc.servers.vdbconf|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\rpyc\servers\vdbconf.py
+rpyc.utils.__init__|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\rpyc\utils\__init__.py
+rpyc.utils.authenticators|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\rpyc\utils\authenticators.py
+rpyc.utils.classic|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\rpyc\utils\classic.py
+rpyc.utils.factory|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\rpyc\utils\factory.py
+rpyc.utils.helpers|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\rpyc\utils\helpers.py
+rpyc.utils.lib|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\rpyc\utils\lib.py
+rpyc.utils.logger|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\rpyc\utils\logger.py
+rpyc.utils.registry|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\rpyc\utils\registry.py
+rpyc.utils.server|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\rpyc\utils\server.py
+rpyc.utils.twisted_integration|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\rpyc\utils\twisted_integration.py
+runpy|E:\Tools\Houdini 12.5.316.22\python26\lib\runpy.py
+runtime|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\pymel\core\runtime.py
+sas.__init__|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\sas\__init__.py
+sas.api|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\sas\api.py
+sas.inspectasset|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\sas\inspectasset.py
+sas.localassets|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\sas\localassets.py
+sas.webresponder|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\sas\webresponder.py
+scanf|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\pymel\util\scanf.py
+sched|E:\Python26\Lib\sched.py
+scipy
+select|E:\Python26\DLLs\select.pyd
+server|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\server.py
+sets|E:\Tools\Houdini 12.5.316.22\python26\lib\sets.py
+setuptools.__init__|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\setuptools\__init__.py
+setuptools.archive_util|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\setuptools\archive_util.py
+setuptools.command.__init__|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\setuptools\command\__init__.py
+setuptools.command.alias|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\setuptools\command\alias.py
+setuptools.command.bdist_egg|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\setuptools\command\bdist_egg.py
+setuptools.command.bdist_rpm|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\setuptools\command\bdist_rpm.py
+setuptools.command.bdist_wininst|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\setuptools\command\bdist_wininst.py
+setuptools.command.build_ext|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\setuptools\command\build_ext.py
+setuptools.command.build_py|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\setuptools\command\build_py.py
+setuptools.command.develop|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\setuptools\command\develop.py
+setuptools.command.easy_install|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\setuptools\command\easy_install.py
+setuptools.command.egg_info|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\setuptools\command\egg_info.py
+setuptools.command.install|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\setuptools\command\install.py
+setuptools.command.install_egg_info|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\setuptools\command\install_egg_info.py
+setuptools.command.install_lib|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\setuptools\command\install_lib.py
+setuptools.command.install_scripts|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\setuptools\command\install_scripts.py
+setuptools.command.register|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\setuptools\command\register.py
+setuptools.command.rotate|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\setuptools\command\rotate.py
+setuptools.command.saveopts|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\setuptools\command\saveopts.py
+setuptools.command.sdist|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\setuptools\command\sdist.py
+setuptools.command.setopt|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\setuptools\command\setopt.py
+setuptools.command.test|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\setuptools\command\test.py
+setuptools.command.upload|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\setuptools\command\upload.py
+setuptools.depends|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\setuptools\depends.py
+setuptools.dist|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\setuptools\dist.py
+setuptools.extension|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\setuptools\extension.py
+setuptools.package_index|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\setuptools\package_index.py
+setuptools.sandbox|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\setuptools\sandbox.py
+setuptools.tests.__init__|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\setuptools\tests\__init__.py
+setuptools.tests.doctest|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\setuptools\tests\doctest.py
+setuptools.tests.test_packageindex|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\setuptools\tests\test_packageindex.py
+setuptools.tests.test_resources|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\setuptools\tests\test_resources.py
+sgmllib|E:\Python26\Lib\sgmllib.py
+sha|E:\Python26\Lib\sha.py
+shelfutils|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\shelfutils.py
+shell|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\pymel\util\shell.py
+shelve|E:\Tools\Houdini 12.5.316.22\python26\lib\shelve.py
+shlex|E:\Tools\Houdini 12.5.316.22\python26\lib\shlex.py
+shopclerks.__init__|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\shopclerks\__init__.py
+shopclerks.clerkloader|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\shopclerks\clerkloader.py
+shopclerks.clerkutil|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\shopclerks\clerkutil.py
+shopclerks.i3dclerk|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\shopclerks\i3dclerk.py
+shopclerks.ifdclerk|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\shopclerks\ifdclerk.py
+shopclerks.miclerk|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\shopclerks\miclerk.py
+shopclerks.ribclerk|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\shopclerks\ribclerk.py
+shoptoolutils|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\shoptoolutils.py
+shutil|E:\Python26\Lib\shutil.py
+signal
+simplejson.__init__|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\simplejson\__init__.py
+simplejson.decoder|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\simplejson\decoder.py
+simplejson.encoder|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\simplejson\encoder.py
+simplejson.scanner|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\simplejson\scanner.py
+simplejson.tests.__init__|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\simplejson\tests\__init__.py
+simplejson.tests.test_check_circular|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\simplejson\tests\test_check_circular.py
+simplejson.tests.test_decode|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\simplejson\tests\test_decode.py
+simplejson.tests.test_default|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\simplejson\tests\test_default.py
+simplejson.tests.test_dump|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\simplejson\tests\test_dump.py
+simplejson.tests.test_encode_basestring_ascii|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\simplejson\tests\test_encode_basestring_ascii.py
+simplejson.tests.test_fail|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\simplejson\tests\test_fail.py
+simplejson.tests.test_float|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\simplejson\tests\test_float.py
+simplejson.tests.test_indent|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\simplejson\tests\test_indent.py
+simplejson.tests.test_pass1|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\simplejson\tests\test_pass1.py
+simplejson.tests.test_pass2|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\simplejson\tests\test_pass2.py
+simplejson.tests.test_pass3|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\simplejson\tests\test_pass3.py
+simplejson.tests.test_recursion|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\simplejson\tests\test_recursion.py
+simplejson.tests.test_scanstring|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\simplejson\tests\test_scanstring.py
+simplejson.tests.test_separators|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\simplejson\tests\test_separators.py
+simplejson.tests.test_unicode|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\simplejson\tests\test_unicode.py
+simplejson.tool|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\simplejson\tool.py
+simtracker|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\simtracker.py
+sip|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\sip.pyd
+sipconfig|E:\Python26\Lib\site-packages\sipconfig.py
+sipdistutils|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\sipdistutils.py
+site|E:\Python26\Lib\site.py
+smtpd|E:\Python26\Lib\smtpd.py
+smtplib|E:\Tools\Houdini 12.5.316.22\python26\lib\smtplib.py
+sndhdr|E:\Python26\Lib\sndhdr.py
+socket|E:\Tools\Houdini 12.5.316.22\python26\lib\socket.py
+soptoolutils|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\soptoolutils.py
+sqlite3|E:\Python26\DLLs\sqlite3.dll
+sqlite3.__init__|E:\Tools\Houdini 12.5.316.22\python26\lib\sqlite3\__init__.py
+sqlite3.dbapi2|E:\Python26\Lib\sqlite3\dbapi2.py
+sqlite3.dump|E:\Python26\Lib\sqlite3\dump.py
+sqlite3.test.__init__|E:\Python26\Lib\sqlite3\test\__init__.py
+sqlite3.test.dbapi|E:\Python26\Lib\sqlite3\test\dbapi.py
+sqlite3.test.dump|E:\Tools\Houdini 12.5.316.22\python26\lib\sqlite3\test\dump.py
+sqlite3.test.factory|E:\Python26\Lib\sqlite3\test\factory.py
+sqlite3.test.hooks|E:\Tools\Houdini 12.5.316.22\python26\lib\sqlite3\test\hooks.py
+sqlite3.test.py25tests|E:\Tools\Houdini 12.5.316.22\python26\lib\sqlite3\test\py25tests.py
+sqlite3.test.regression|E:\Python26\Lib\sqlite3\test\regression.py
+sqlite3.test.transactions|E:\Tools\Houdini 12.5.316.22\python26\lib\sqlite3\test\transactions.py
+sqlite3.test.types|E:\Python26\Lib\sqlite3\test\types.py
+sqlite3.test.userfunctions|E:\Python26\Lib\sqlite3\test\userfunctions.py
+sre|E:\Python26\Lib\sre.py
+sre_compile|E:\Python26\Lib\sre_compile.py
+sre_constants|E:\Tools\Houdini 12.5.316.22\python26\lib\sre_constants.py
+sre_parse|E:\Tools\Houdini 12.5.316.22\python26\lib\sre_parse.py
+ssl|E:\Python26\Lib\ssl.py
+standalone|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\standalone.pyd
+startup|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\pymel\internal\startup.py
+stat|E:\Tools\Houdini 12.5.316.22\python26\lib\stat.py
+statvfs|E:\Python26\Lib\statvfs.py
+string|E:\Python26\Lib\string.py
+stringold|E:\Python26\Lib\stringold.py
+stringprep|E:\Python26\Lib\stringprep.py
+strop
+struct|E:\Python26\Lib\struct.py
+subprocess|E:\Tools\Houdini 12.5.316.22\python26\lib\subprocess.py
+sunau|E:\Tools\Houdini 12.5.316.22\python26\lib\sunau.py
+sunaudio|E:\Tools\Houdini 12.5.316.22\python26\lib\sunaudio.py
+symbol|E:\Python26\Lib\symbol.py
+symtable|E:\Tools\Houdini 12.5.316.22\python26\lib\symtable.py
+sys
+system|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\pymel\core\system.py
+tabnanny|E:\Python26\Lib\tabnanny.py
+tarfile|E:\Python26\Lib\tarfile.py
+tcl85|E:\Python26\DLLs\tcl85.dll
+tclpip85|E:\Python26\DLLs\tclpip85.dll
+telnetlib|E:\Python26\Lib\telnetlib.py
+tempfile|E:\Python26\Lib\tempfile.py
+test.__init__|E:\Tools\Houdini 12.5.316.22\python26\lib\test\__init__.py
+test.autotest|E:\Tools\Houdini 12.5.316.22\python26\lib\test\autotest.py
+test.bad_coding|E:\Python26\Lib\test\bad_coding.py
+test.bad_coding2|E:\Python26\Lib\test\bad_coding2.py
+test.badsyntax_future3|E:\Python26\Lib\test\badsyntax_future3.py
+test.badsyntax_future4|E:\Tools\Houdini 12.5.316.22\python26\lib\test\badsyntax_future4.py
+test.badsyntax_future5|E:\Python26\Lib\test\badsyntax_future5.py
+test.badsyntax_future6|E:\Tools\Houdini 12.5.316.22\python26\lib\test\badsyntax_future6.py
+test.badsyntax_future7|E:\Tools\Houdini 12.5.316.22\python26\lib\test\badsyntax_future7.py
+test.badsyntax_future8|E:\Python26\Lib\test\badsyntax_future8.py
+test.badsyntax_future9|E:\Python26\Lib\test\badsyntax_future9.py
+test.badsyntax_nocaret|E:\Tools\Houdini 12.5.316.22\python26\lib\test\badsyntax_nocaret.py
+test.buffer_tests|E:\Python26\Lib\test\buffer_tests.py
+test.cjkencodings_test|E:\Python26\Lib\test\cjkencodings_test.py
+test.curses_tests|E:\Tools\Houdini 12.5.316.22\python26\lib\test\curses_tests.py
+test.doctest_aliases|E:\Tools\Houdini 12.5.316.22\python26\lib\test\doctest_aliases.py
+test.double_const|E:\Tools\Houdini 12.5.316.22\python26\lib\test\double_const.py
+test.fork_wait|E:\Python26\Lib\test\fork_wait.py
+test.infinite_reload|E:\Python26\Lib\test\infinite_reload.py
+test.inspect_fodder|E:\Python26\Lib\test\inspect_fodder.py
+test.inspect_fodder2|E:\Tools\Houdini 12.5.316.22\python26\lib\test\inspect_fodder2.py
+test.leakers.__init__|E:\Tools\Houdini 12.5.316.22\python26\lib\test\leakers\__init__.py
+test.leakers.test_ctypes|E:\Python26\Lib\test\leakers\test_ctypes.py
+test.leakers.test_gestalt|E:\Python26\Lib\test\leakers\test_gestalt.py
+test.leakers.test_selftype|E:\Tools\Houdini 12.5.316.22\python26\lib\test\leakers\test_selftype.py
+test.list_tests|E:\Python26\Lib\test\list_tests.py
+test.mapping_tests|E:\Tools\Houdini 12.5.316.22\python26\lib\test\mapping_tests.py
+test.outstanding_bugs|E:\Tools\Houdini 12.5.316.22\python26\lib\test\outstanding_bugs.py
+test.pickletester|E:\Python26\Lib\test\pickletester.py
+test.profilee|E:\Python26\Lib\test\profilee.py
+test.pyclbr_input|E:\Tools\Houdini 12.5.316.22\python26\lib\test\pyclbr_input.py
+test.pydoc_mod|E:\Python26\Lib\test\pydoc_mod.py
+test.pydocfodder|E:\Python26\Lib\test\pydocfodder.py
+test.pystone|E:\Tools\Houdini 12.5.316.22\python26\lib\test\pystone.py
+test.re_tests|E:\Python26\Lib\test\re_tests.py
+test.regex_tests|E:\Python26\Lib\test\regex_tests.py
+test.regrtest|E:\Python26\Lib\test\regrtest.py
+test.relimport|E:\Python26\Lib\test\relimport.py
+test.reperf|E:\Python26\Lib\test\reperf.py
+test.sample_doctest|E:\Tools\Houdini 12.5.316.22\python26\lib\test\sample_doctest.py
+test.seq_tests|E:\Python26\Lib\test\seq_tests.py
+test.sortperf|E:\Tools\Houdini 12.5.316.22\python26\lib\test\sortperf.py
+test.string_tests|E:\Python26\Lib\test\string_tests.py
+test.test_MimeWriter|E:\Python26\Lib\test\test_MimeWriter.py
+test.test_SimpleHTTPServer|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_SimpleHTTPServer.py
+test.test_StringIO|E:\Python26\Lib\test\test_StringIO.py
+test.test___all__|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test___all__.py
+test.test___future__|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test___future__.py
+test.test__locale|E:\Python26\Lib\test\test__locale.py
+test.test_abc|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_abc.py
+test.test_abstract_numbers|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_abstract_numbers.py
+test.test_aepack|E:\Python26\Lib\test\test_aepack.py
+test.test_aifc|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_aifc.py
+test.test_al|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_al.py
+test.test_anydbm|E:\Python26\Lib\test\test_anydbm.py
+test.test_applesingle|E:\Python26\Lib\test\test_applesingle.py
+test.test_array|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_array.py
+test.test_ast|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_ast.py
+test.test_asynchat|E:\Python26\Lib\test\test_asynchat.py
+test.test_asyncore|E:\Python26\Lib\test\test_asyncore.py
+test.test_atexit|E:\Python26\Lib\test\test_atexit.py
+test.test_audioop|E:\Python26\Lib\test\test_audioop.py
+test.test_augassign|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_augassign.py
+test.test_base64|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_base64.py
+test.test_bastion|E:\Python26\Lib\test\test_bastion.py
+test.test_bigaddrspace|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_bigaddrspace.py
+test.test_bigmem|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_bigmem.py
+test.test_binascii|E:\Python26\Lib\test\test_binascii.py
+test.test_binhex|E:\Python26\Lib\test\test_binhex.py
+test.test_binop|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_binop.py
+test.test_bisect|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_bisect.py
+test.test_bool|E:\Python26\Lib\test\test_bool.py
+test.test_bsddb|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_bsddb.py
+test.test_bsddb185|E:\Python26\Lib\test\test_bsddb185.py
+test.test_bsddb3|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_bsddb3.py
+test.test_buffer|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_buffer.py
+test.test_bufio|E:\Python26\Lib\test\test_bufio.py
+test.test_builtin|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_builtin.py
+test.test_bytes|E:\Python26\Lib\test\test_bytes.py
+test.test_bz2|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_bz2.py
+test.test_calendar|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_calendar.py
+test.test_call|E:\Python26\Lib\test\test_call.py
+test.test_capi|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_capi.py
+test.test_cd|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_cd.py
+test.test_cfgparser|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_cfgparser.py
+test.test_cgi|E:\Python26\Lib\test\test_cgi.py
+test.test_charmapcodec|E:\Python26\Lib\test\test_charmapcodec.py
+test.test_cl|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_cl.py
+test.test_class|E:\Python26\Lib\test\test_class.py
+test.test_cmath|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_cmath.py
+test.test_cmd|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_cmd.py
+test.test_cmd_line|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_cmd_line.py
+test.test_cmd_line_script|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_cmd_line_script.py
+test.test_code|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_code.py
+test.test_codeccallbacks|E:\Python26\Lib\test\test_codeccallbacks.py
+test.test_codecencodings_cn|E:\Python26\Lib\test\test_codecencodings_cn.py
+test.test_codecencodings_hk|E:\Python26\Lib\test\test_codecencodings_hk.py
+test.test_codecencodings_jp|E:\Python26\Lib\test\test_codecencodings_jp.py
+test.test_codecencodings_kr|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_codecencodings_kr.py
+test.test_codecencodings_tw|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_codecencodings_tw.py
+test.test_codecmaps_cn|E:\Python26\Lib\test\test_codecmaps_cn.py
+test.test_codecmaps_hk|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_codecmaps_hk.py
+test.test_codecmaps_jp|E:\Python26\Lib\test\test_codecmaps_jp.py
+test.test_codecmaps_kr|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_codecmaps_kr.py
+test.test_codecmaps_tw|E:\Python26\Lib\test\test_codecmaps_tw.py
+test.test_codecs|E:\Python26\Lib\test\test_codecs.py
+test.test_codeop|E:\Python26\Lib\test\test_codeop.py
+test.test_coding|E:\Python26\Lib\test\test_coding.py
+test.test_coercion|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_coercion.py
+test.test_collections|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_collections.py
+test.test_colorsys|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_colorsys.py
+test.test_commands|E:\Python26\Lib\test\test_commands.py
+test.test_compare|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_compare.py
+test.test_compile|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_compile.py
+test.test_compiler|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_compiler.py
+test.test_complex|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_complex.py
+test.test_complex_args|E:\Python26\Lib\test\test_complex_args.py
+test.test_contains|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_contains.py
+test.test_contextlib|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_contextlib.py
+test.test_cookie|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_cookie.py
+test.test_cookielib|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_cookielib.py
+test.test_copy|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_copy.py
+test.test_copy_reg|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_copy_reg.py
+test.test_cpickle|E:\Python26\Lib\test\test_cpickle.py
+test.test_cprofile|E:\Python26\Lib\test\test_cprofile.py
+test.test_crypt|E:\Python26\Lib\test\test_crypt.py
+test.test_csv|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_csv.py
+test.test_ctypes|E:\Python26\Lib\test\test_ctypes.py
+test.test_curses|E:\Python26\Lib\test\test_curses.py
+test.test_datetime|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_datetime.py
+test.test_dbm|E:\Python26\Lib\test\test_dbm.py
+test.test_decimal|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_decimal.py
+test.test_decorators|E:\Python26\Lib\test\test_decorators.py
+test.test_defaultdict|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_defaultdict.py
+test.test_deque|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_deque.py
+test.test_descr|E:\Python26\Lib\test\test_descr.py
+test.test_descrtut|E:\Python26\Lib\test\test_descrtut.py
+test.test_dict|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_dict.py
+test.test_difflib|E:\Python26\Lib\test\test_difflib.py
+test.test_dircache|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_dircache.py
+test.test_dis|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_dis.py
+test.test_distutils|E:\Python26\Lib\test\test_distutils.py
+test.test_dl|E:\Python26\Lib\test\test_dl.py
+test.test_doctest|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_doctest.py
+test.test_doctest2|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_doctest2.py
+test.test_docxmlrpc|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_docxmlrpc.py
+test.test_dumbdbm|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_dumbdbm.py
+test.test_dummy_thread|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_dummy_thread.py
+test.test_dummy_threading|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_dummy_threading.py
+test.test_email|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_email.py
+test.test_email_codecs|E:\Python26\Lib\test\test_email_codecs.py
+test.test_email_renamed|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_email_renamed.py
+test.test_enumerate|E:\Python26\Lib\test\test_enumerate.py
+test.test_eof|E:\Python26\Lib\test\test_eof.py
+test.test_epoll|E:\Python26\Lib\test\test_epoll.py
+test.test_errno|E:\Python26\Lib\test\test_errno.py
+test.test_exception_variations|E:\Python26\Lib\test\test_exception_variations.py
+test.test_exceptions|E:\Python26\Lib\test\test_exceptions.py
+test.test_extcall|E:\Python26\Lib\test\test_extcall.py
+test.test_fcntl|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_fcntl.py
+test.test_file|E:\Python26\Lib\test\test_file.py
+test.test_filecmp|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_filecmp.py
+test.test_fileinput|E:\Python26\Lib\test\test_fileinput.py
+test.test_fileio|E:\Python26\Lib\test\test_fileio.py
+test.test_float|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_float.py
+test.test_fnmatch|E:\Python26\Lib\test\test_fnmatch.py
+test.test_fork1|E:\Python26\Lib\test\test_fork1.py
+test.test_format|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_format.py
+test.test_fpformat|E:\Python26\Lib\test\test_fpformat.py
+test.test_fractions|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_fractions.py
+test.test_frozen|E:\Python26\Lib\test\test_frozen.py
+test.test_ftplib|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_ftplib.py
+test.test_funcattrs|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_funcattrs.py
+test.test_functools|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_functools.py
+test.test_future|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_future.py
+test.test_future1|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_future1.py
+test.test_future2|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_future2.py
+test.test_future3|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_future3.py
+test.test_future4|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_future4.py
+test.test_future5|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_future5.py
+test.test_future_builtins|E:\Python26\Lib\test\test_future_builtins.py
+test.test_gc|E:\Python26\Lib\test\test_gc.py
+test.test_gdbm|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_gdbm.py
+test.test_generators|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_generators.py
+test.test_genericpath|E:\Python26\Lib\test\test_genericpath.py
+test.test_genexps|E:\Python26\Lib\test\test_genexps.py
+test.test_getargs|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_getargs.py
+test.test_getargs2|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_getargs2.py
+test.test_getopt|E:\Python26\Lib\test\test_getopt.py
+test.test_gettext|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_gettext.py
+test.test_gl|E:\Python26\Lib\test\test_gl.py
+test.test_glob|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_glob.py
+test.test_global|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_global.py
+test.test_grammar|E:\Python26\Lib\test\test_grammar.py
+test.test_grp|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_grp.py
+test.test_gzip|E:\Python26\Lib\test\test_gzip.py
+test.test_hash|E:\Python26\Lib\test\test_hash.py
+test.test_hashlib|E:\Python26\Lib\test\test_hashlib.py
+test.test_heapq|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_heapq.py
+test.test_hmac|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_hmac.py
+test.test_hotshot|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_hotshot.py
+test.test_htmllib|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_htmllib.py
+test.test_htmlparser|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_htmlparser.py
+test.test_httplib|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_httplib.py
+test.test_httpservers|E:\Python26\Lib\test\test_httpservers.py
+test.test_imageop|E:\Python26\Lib\test\test_imageop.py
+test.test_imaplib|E:\Python26\Lib\test\test_imaplib.py
+test.test_imgfile|E:\Python26\Lib\test\test_imgfile.py
+test.test_imp|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_imp.py
+test.test_import|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_import.py
+test.test_importhooks|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_importhooks.py
+test.test_index|E:\Python26\Lib\test\test_index.py
+test.test_inspect|E:\Python26\Lib\test\test_inspect.py
+test.test_int|E:\Python26\Lib\test\test_int.py
+test.test_int_literal|E:\Python26\Lib\test\test_int_literal.py
+test.test_io|E:\Python26\Lib\test\test_io.py
+test.test_ioctl|E:\Python26\Lib\test\test_ioctl.py
+test.test_isinstance|E:\Python26\Lib\test\test_isinstance.py
+test.test_iter|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_iter.py
+test.test_iterlen|E:\Python26\Lib\test\test_iterlen.py
+test.test_itertools|E:\Python26\Lib\test\test_itertools.py
+test.test_json|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_json.py
+test.test_kqueue|E:\Python26\Lib\test\test_kqueue.py
+test.test_largefile|E:\Python26\Lib\test\test_largefile.py
+test.test_lib2to3|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_lib2to3.py
+test.test_linecache|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_linecache.py
+test.test_linuxaudiodev|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_linuxaudiodev.py
+test.test_list|E:\Python26\Lib\test\test_list.py
+test.test_locale|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_locale.py
+test.test_logging|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_logging.py
+test.test_long|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_long.py
+test.test_long_future|E:\Python26\Lib\test\test_long_future.py
+test.test_longexp|E:\Python26\Lib\test\test_longexp.py
+test.test_macos|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_macos.py
+test.test_macostools|E:\Python26\Lib\test\test_macostools.py
+test.test_macpath|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_macpath.py
+test.test_mailbox|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_mailbox.py
+test.test_marshal|E:\Python26\Lib\test\test_marshal.py
+test.test_math|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_math.py
+test.test_md5|E:\Python26\Lib\test\test_md5.py
+test.test_memoryio|E:\Python26\Lib\test\test_memoryio.py
+test.test_mhlib|E:\Python26\Lib\test\test_mhlib.py
+test.test_mimetools|E:\Python26\Lib\test\test_mimetools.py
+test.test_mimetypes|E:\Python26\Lib\test\test_mimetypes.py
+test.test_minidom|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_minidom.py
+test.test_mmap|E:\Python26\Lib\test\test_mmap.py
+test.test_module|E:\Python26\Lib\test\test_module.py
+test.test_modulefinder|E:\Python26\Lib\test\test_modulefinder.py
+test.test_multibytecodec|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_multibytecodec.py
+test.test_multibytecodec_support|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_multibytecodec_support.py
+test.test_multifile|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_multifile.py
+test.test_multiprocessing|E:\Python26\Lib\test\test_multiprocessing.py
+test.test_mutants|E:\Python26\Lib\test\test_mutants.py
+test.test_mutex|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_mutex.py
+test.test_netrc|E:\Python26\Lib\test\test_netrc.py
+test.test_new|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_new.py
+test.test_nis|E:\Python26\Lib\test\test_nis.py
+test.test_normalization|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_normalization.py
+test.test_ntpath|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_ntpath.py
+test.test_old_mailbox|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_old_mailbox.py
+test.test_opcodes|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_opcodes.py
+test.test_openpty|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_openpty.py
+test.test_operator|E:\Python26\Lib\test\test_operator.py
+test.test_optparse|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_optparse.py
+test.test_os|E:\Python26\Lib\test\test_os.py
+test.test_ossaudiodev|E:\Python26\Lib\test\test_ossaudiodev.py
+test.test_parser|E:\Python26\Lib\test\test_parser.py
+test.test_peepholer|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_peepholer.py
+test.test_pep247|E:\Python26\Lib\test\test_pep247.py
+test.test_pep263|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_pep263.py
+test.test_pep277|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_pep277.py
+test.test_pep292|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_pep292.py
+test.test_pep352|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_pep352.py
+test.test_pickle|E:\Python26\Lib\test\test_pickle.py
+test.test_pickletools|E:\Python26\Lib\test\test_pickletools.py
+test.test_pipes|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_pipes.py
+test.test_pkg|E:\Python26\Lib\test\test_pkg.py
+test.test_pkgimport|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_pkgimport.py
+test.test_pkgutil|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_pkgutil.py
+test.test_platform|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_platform.py
+test.test_plistlib|E:\Python26\Lib\test\test_plistlib.py
+test.test_poll|E:\Python26\Lib\test\test_poll.py
+test.test_popen|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_popen.py
+test.test_popen2|E:\Python26\Lib\test\test_popen2.py
+test.test_poplib|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_poplib.py
+test.test_posix|E:\Python26\Lib\test\test_posix.py
+test.test_posixpath|E:\Python26\Lib\test\test_posixpath.py
+test.test_pow|E:\Python26\Lib\test\test_pow.py
+test.test_pprint|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_pprint.py
+test.test_print|E:\Python26\Lib\test\test_print.py
+test.test_profile|E:\Python26\Lib\test\test_profile.py
+test.test_profilehooks|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_profilehooks.py
+test.test_property|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_property.py
+test.test_pstats|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_pstats.py
+test.test_pty|E:\Python26\Lib\test\test_pty.py
+test.test_pwd|E:\Python26\Lib\test\test_pwd.py
+test.test_py3kwarn|E:\Python26\Lib\test\test_py3kwarn.py
+test.test_pyclbr|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_pyclbr.py
+test.test_pydoc|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_pydoc.py
+test.test_pyexpat|E:\Python26\Lib\test\test_pyexpat.py
+test.test_queue|E:\Python26\Lib\test\test_queue.py
+test.test_quopri|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_quopri.py
+test.test_random|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_random.py
+test.test_re|E:\Python26\Lib\test\test_re.py
+test.test_repr|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_repr.py
+test.test_resource|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_resource.py
+test.test_rfc822|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_rfc822.py
+test.test_richcmp|E:\Python26\Lib\test\test_richcmp.py
+test.test_robotparser|E:\Python26\Lib\test\test_robotparser.py
+test.test_runpy|E:\Python26\Lib\test\test_runpy.py
+test.test_sax|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_sax.py
+test.test_scope|E:\Python26\Lib\test\test_scope.py
+test.test_scriptpackages|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_scriptpackages.py
+test.test_select|E:\Python26\Lib\test\test_select.py
+test.test_set|E:\Python26\Lib\test\test_set.py
+test.test_sets|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_sets.py
+test.test_sgmllib|E:\Python26\Lib\test\test_sgmllib.py
+test.test_sha|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_sha.py
+test.test_shelve|E:\Python26\Lib\test\test_shelve.py
+test.test_shlex|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_shlex.py
+test.test_shutil|E:\Python26\Lib\test\test_shutil.py
+test.test_signal|E:\Python26\Lib\test\test_signal.py
+test.test_site|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_site.py
+test.test_slice|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_slice.py
+test.test_smtplib|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_smtplib.py
+test.test_smtpnet|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_smtpnet.py
+test.test_socket|E:\Python26\Lib\test\test_socket.py
+test.test_socketserver|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_socketserver.py
+test.test_softspace|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_softspace.py
+test.test_sort|E:\Python26\Lib\test\test_sort.py
+test.test_sqlite|E:\Python26\Lib\test\test_sqlite.py
+test.test_ssl|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_ssl.py
+test.test_startfile|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_startfile.py
+test.test_str|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_str.py
+test.test_strftime|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_strftime.py
+test.test_string|E:\Python26\Lib\test\test_string.py
+test.test_stringprep|E:\Python26\Lib\test\test_stringprep.py
+test.test_strop|E:\Python26\Lib\test\test_strop.py
+test.test_strptime|E:\Python26\Lib\test\test_strptime.py
+test.test_struct|E:\Python26\Lib\test\test_struct.py
+test.test_structmembers|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_structmembers.py
+test.test_structseq|E:\Python26\Lib\test\test_structseq.py
+test.test_subprocess|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_subprocess.py
+test.test_sunaudiodev|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_sunaudiodev.py
+test.test_sundry|E:\Python26\Lib\test\test_sundry.py
+test.test_support|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_support.py
+test.test_symtable|E:\Python26\Lib\test\test_symtable.py
+test.test_syntax|E:\Python26\Lib\test\test_syntax.py
+test.test_sys|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_sys.py
+test.test_tarfile|E:\Python26\Lib\test\test_tarfile.py
+test.test_tcl|E:\Python26\Lib\test\test_tcl.py
+test.test_telnetlib|E:\Python26\Lib\test\test_telnetlib.py
+test.test_tempfile|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_tempfile.py
+test.test_textwrap|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_textwrap.py
+test.test_thread|E:\Python26\Lib\test\test_thread.py
+test.test_threaded_import|E:\Python26\Lib\test\test_threaded_import.py
+test.test_threadedtempfile|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_threadedtempfile.py
+test.test_threading|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_threading.py
+test.test_threading_local|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_threading_local.py
+test.test_threadsignals|E:\Python26\Lib\test\test_threadsignals.py
+test.test_time|E:\Python26\Lib\test\test_time.py
+test.test_timeout|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_timeout.py
+test.test_tokenize|E:\Python26\Lib\test\test_tokenize.py
+test.test_trace|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_trace.py
+test.test_traceback|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_traceback.py
+test.test_transformer|E:\Python26\Lib\test\test_transformer.py
+test.test_tuple|E:\Python26\Lib\test\test_tuple.py
+test.test_typechecks|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_typechecks.py
+test.test_types|E:\Python26\Lib\test\test_types.py
+test.test_ucn|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_ucn.py
+test.test_unary|E:\Python26\Lib\test\test_unary.py
+test.test_undocumented_details|E:\Python26\Lib\test\test_undocumented_details.py
+test.test_unicode|E:\Python26\Lib\test\test_unicode.py
+test.test_unicode_file|E:\Python26\Lib\test\test_unicode_file.py
+test.test_unicodedata|E:\Python26\Lib\test\test_unicodedata.py
+test.test_unittest|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_unittest.py
+test.test_univnewlines|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_univnewlines.py
+test.test_unpack|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_unpack.py
+test.test_urllib|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_urllib.py
+test.test_urllib2|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_urllib2.py
+test.test_urllib2_localnet|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_urllib2_localnet.py
+test.test_urllib2net|E:\Python26\Lib\test\test_urllib2net.py
+test.test_urllibnet|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_urllibnet.py
+test.test_urlparse|E:\Python26\Lib\test\test_urlparse.py
+test.test_userdict|E:\Python26\Lib\test\test_userdict.py
+test.test_userlist|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_userlist.py
+test.test_userstring|E:\Python26\Lib\test\test_userstring.py
+test.test_uu|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_uu.py
+test.test_uuid|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_uuid.py
+test.test_wait3|E:\Python26\Lib\test\test_wait3.py
+test.test_wait4|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_wait4.py
+test.test_warnings|E:\Python26\Lib\test\test_warnings.py
+test.test_wave|E:\Python26\Lib\test\test_wave.py
+test.test_weakref|E:\Python26\Lib\test\test_weakref.py
+test.test_whichdb|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_whichdb.py
+test.test_winreg|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_winreg.py
+test.test_winsound|E:\Python26\Lib\test\test_winsound.py
+test.test_with|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_with.py
+test.test_wsgiref|E:\Python26\Lib\test\test_wsgiref.py
+test.test_xdrlib|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_xdrlib.py
+test.test_xml_etree|E:\Python26\Lib\test\test_xml_etree.py
+test.test_xml_etree_c|E:\Python26\Lib\test\test_xml_etree_c.py
+test.test_xmllib|E:\Python26\Lib\test\test_xmllib.py
+test.test_xmlrpc|E:\Python26\Lib\test\test_xmlrpc.py
+test.test_xpickle|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_xpickle.py
+test.test_xrange|E:\Python26\Lib\test\test_xrange.py
+test.test_zipfile|E:\Python26\Lib\test\test_zipfile.py
+test.test_zipfile64|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_zipfile64.py
+test.test_zipimport|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_zipimport.py
+test.test_zipimport_support|E:\Tools\Houdini 12.5.316.22\python26\lib\test\test_zipimport_support.py
+test.test_zlib|E:\Python26\Lib\test\test_zlib.py
+test.testall|E:\Python26\Lib\test\testall.py
+test.testcodec|E:\Tools\Houdini 12.5.316.22\python26\lib\test\testcodec.py
+test.tf_inherit_check|E:\Tools\Houdini 12.5.316.22\python26\lib\test\tf_inherit_check.py
+test.threaded_import_hangers|E:\Tools\Houdini 12.5.316.22\python26\lib\test\threaded_import_hangers.py
+test.time_hashlib|E:\Python26\Lib\test\time_hashlib.py
+test.warning_tests|E:\Tools\Houdini 12.5.316.22\python26\lib\test\warning_tests.py
+test.xmltests|E:\Python26\Lib\test\xmltests.py
+testing|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\pymel\util\testing.py
+textwrap|E:\Python26\Lib\textwrap.py
+this|E:\Python26\Lib\this.py
+thread
+threading|E:\Tools\Houdini 12.5.316.22\python26\lib\threading.py
+time
+timeit|E:\Python26\Lib\timeit.py
+tix84|E:\Python26\DLLs\tix84.dll
+tk85|E:\Python26\DLLs\tk85.dll
+tkColorChooser|E:\Python26\Lib\lib-tk\tkColorChooser.py
+tkCommonDialog|E:\Python26\Lib\lib-tk\tkCommonDialog.py
+tkFileDialog|E:\Python26\Lib\lib-tk\tkFileDialog.py
+tkFont|E:\Python26\Lib\lib-tk\tkFont.py
+tkMessageBox|E:\Python26\Lib\lib-tk\tkMessageBox.py
+tkSimpleDialog|E:\Python26\Lib\lib-tk\tkSimpleDialog.py
+toaiff|E:\Python26\Lib\toaiff.py
+token|E:\Tools\Houdini 12.5.316.22\python26\lib\token.py
+tokenize|E:\Python26\Lib\tokenize.py
+toolprompts|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\toolprompts.py
+toolutils|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\toolutils.py
+trace|E:\Tools\Houdini 12.5.316.22\python26\lib\trace.py
+traceback|E:\Tools\Houdini 12.5.316.22\python26\lib\traceback.py
+trees|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\pymel\util\trees.py
+tty|E:\Python26\Lib\tty.py
+turtle|E:\Python26\Lib\lib-tk\turtle.py
+types|E:\Tools\Houdini 12.5.316.22\python26\lib\types.py
+uitypes|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\pymel\core\uitypes.py
+unicodedata|E:\Python26\DLLs\unicodedata.pyd
+unittest|E:\Python26\Lib\unittest.py
+unsupported.__init__|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\unsupported\__init__.py
+unsupported.convertToPre2009Workspace|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\unsupported\convertToPre2009Workspace.py
+upgradeScripts|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\pymel\tools\upgradeScripts.py
+urllib|E:\Tools\Houdini 12.5.316.22\python26\lib\urllib.py
+urllib2|E:\Tools\Houdini 12.5.316.22\python26\lib\urllib2.py
+urlparse|E:\Tools\Houdini 12.5.316.22\python26\lib\urlparse.py
+user|E:\Tools\Houdini 12.5.316.22\python26\lib\user.py
+utilitytypes|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\pymel\util\utilitytypes.py
+utils|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\maya\utils.py
+uu|E:\Python26\Lib\uu.py
+uuid|E:\Python26\Lib\uuid.py
+versions|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\pymel\versions.py
+vopcallbacks|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\vopcallbacks.py
+vopnettoolutils|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\vopnettoolutils.py
+voptoolutils|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\voptoolutils.py
+warnings|E:\Tools\Houdini 12.5.316.22\python26\lib\warnings.py
+wave|E:\Tools\Houdini 12.5.316.22\python26\lib\wave.py
+weakref|E:\Python26\Lib\weakref.py
+webbrowser|E:\Python26\Lib\webbrowser.py
+webob.__init__|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\webob\__init__.py
+webob.acceptparse|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\webob\acceptparse.py
+webob.byterange|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\webob\byterange.py
+webob.cachecontrol|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\webob\cachecontrol.py
+webob.compat|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\webob\compat.py
+webob.datastruct|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\webob\datastruct.py
+webob.etag|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\webob\etag.py
+webob.exc|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\webob\exc.py
+webob.headerdict|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\webob\headerdict.py
+webob.multidict|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\webob\multidict.py
+webob.statusreasons|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\webob\statusreasons.py
+webob.updatedict|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\webob\updatedict.py
+webob.util.__init__|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\webob\util\__init__.py
+webob.util.dictmixin|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\webob\util\dictmixin.py
+webob.util.reversed|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\webob\util\reversed.py
+webob.util.safegzip|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\webob\util\safegzip.py
+webob.util.stringtemplate|E:\Tools\Houdini 12.5.316.22\python26\lib\site-packages\webob\util\stringtemplate.py
+whichdb|E:\Python26\Lib\whichdb.py
+whoosh.__init__|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\whoosh\__init__.py
+whoosh.analysis|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\whoosh\analysis.py
+whoosh.classify|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\whoosh\classify.py
+whoosh.compat|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\whoosh\compat.py
+whoosh.fields|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\whoosh\fields.py
+whoosh.filedb.__init__|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\whoosh\filedb\__init__.py
+whoosh.filedb.fieldcache|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\whoosh\filedb\fieldcache.py
+whoosh.filedb.fileindex|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\whoosh\filedb\fileindex.py
+whoosh.filedb.filepostings|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\whoosh\filedb\filepostings.py
+whoosh.filedb.filereading|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\whoosh\filedb\filereading.py
+whoosh.filedb.filestore|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\whoosh\filedb\filestore.py
+whoosh.filedb.filetables|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\whoosh\filedb\filetables.py
+whoosh.filedb.filewriting|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\whoosh\filedb\filewriting.py
+whoosh.filedb.gae|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\whoosh\filedb\gae.py
+whoosh.filedb.multiproc|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\whoosh\filedb\multiproc.py
+whoosh.filedb.pools|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\whoosh\filedb\pools.py
+whoosh.filedb.postblocks|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\whoosh\filedb\postblocks.py
+whoosh.filedb.structfile|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\whoosh\filedb\structfile.py
+whoosh.formats|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\whoosh\formats.py
+whoosh.highlight|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\whoosh\highlight.py
+whoosh.index|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\whoosh\index.py
+whoosh.lang.__init__|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\whoosh\lang\__init__.py
+whoosh.lang.dmetaphone|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\whoosh\lang\dmetaphone.py
+whoosh.lang.lovins|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\whoosh\lang\lovins.py
+whoosh.lang.morph_en|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\whoosh\lang\morph_en.py
+whoosh.lang.paicehusk|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\whoosh\lang\paicehusk.py
+whoosh.lang.phonetic|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\whoosh\lang\phonetic.py
+whoosh.lang.porter|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\whoosh\lang\porter.py
+whoosh.lang.porter2|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\whoosh\lang\porter2.py
+whoosh.lang.wordnet|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\whoosh\lang\wordnet.py
+whoosh.matching|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\whoosh\matching.py
+whoosh.qparser.__init__|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\whoosh\qparser\__init__.py
+whoosh.qparser.common|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\whoosh\qparser\common.py
+whoosh.qparser.dateparse|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\whoosh\qparser\dateparse.py
+whoosh.qparser.default|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\whoosh\qparser\default.py
+whoosh.qparser.plugins|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\whoosh\qparser\plugins.py
+whoosh.qparser.syntax|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\whoosh\qparser\syntax.py
+whoosh.qparser.taggers|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\whoosh\qparser\taggers.py
+whoosh.query|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\whoosh\query.py
+whoosh.ramindex|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\whoosh\ramindex.py
+whoosh.reading|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\whoosh\reading.py
+whoosh.scoring|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\whoosh\scoring.py
+whoosh.searching|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\whoosh\searching.py
+whoosh.sorting|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\whoosh\sorting.py
+whoosh.spans|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\whoosh\spans.py
+whoosh.spelling|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\whoosh\spelling.py
+whoosh.store|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\whoosh\store.py
+whoosh.support.__init__|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\whoosh\support\__init__.py
+whoosh.support.bench|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\whoosh\support\bench.py
+whoosh.support.bitvector|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\whoosh\support\bitvector.py
+whoosh.support.charset|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\whoosh\support\charset.py
+whoosh.support.dawg|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\whoosh\support\dawg.py
+whoosh.support.filelock|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\whoosh\support\filelock.py
+whoosh.support.levenshtein|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\whoosh\support\levenshtein.py
+whoosh.support.numeric|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\whoosh\support\numeric.py
+whoosh.support.relativedelta|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\whoosh\support\relativedelta.py
+whoosh.support.testing|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\whoosh\support\testing.py
+whoosh.support.times|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\whoosh\support\times.py
+whoosh.support.unicode|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\whoosh\support\unicode.py
+whoosh.system|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\whoosh\system.py
+whoosh.util|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\whoosh\util.py
+whoosh.writing|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\whoosh\writing.py
+wikiparser.__init__|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\wikiparser\__init__.py
+wikiparser.events|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\wikiparser\events.py
+wikiparser.filters.__init__|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\wikiparser\filters\__init__.py
+wikiparser.filters.streams|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\wikiparser\filters\streams.py
+wikiparser.filters.trees|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\wikiparser\filters\trees.py
+wikiparser.formats.__init__|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\wikiparser\formats\__init__.py
+wikiparser.formats.textbook.__init__|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\wikiparser\formats\textbook\__init__.py
+wikiparser.formats.textbook.matchers|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\wikiparser\formats\textbook\matchers.py
+wikiparser.markup|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\wikiparser\markup.py
+wikiparser.match.__init__|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\wikiparser\match\__init__.py
+wikiparser.match.blocks|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\wikiparser\match\blocks.py
+wikiparser.match.core|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\wikiparser\match\core.py
+wikiparser.match.data|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\wikiparser\match\data.py
+wikiparser.match.text|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\wikiparser\match\text.py
+wikiparser.match.xml|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\wikiparser\match\xml.py
+wikiparser.textify|E:\Tools\Houdini 12.5.316.22\houdini\python2.6libs\wikiparser\textify.py
+windows|E:\Tools\Autodesk\Maya 2013\Maya2013\Python\Lib\site-packages\pymel\core\windows.py
+winsound|E:\Python26\DLLs\winsound.pyd
+wsgiref.__init__|E:\Tools\Houdini 12.5.316.22\python26\lib\wsgiref\__init__.py
+wsgiref.handlers|E:\Tools\Houdini 12.5.316.22\python26\lib\wsgiref\handlers.py
+wsgiref.headers|E:\Python26\Lib\wsgiref\headers.py
+wsgiref.simple_server|E:\Python26\Lib\wsgiref\simple_server.py
+wsgiref.util|E:\Tools\Houdini 12.5.316.22\python26\lib\wsgiref\util.py
+wsgiref.validate|E:\Tools\Houdini 12.5.316.22\python26\lib\wsgiref\validate.py
+wx
+wxPython
+xdrlib|E:\Python26\Lib\xdrlib.py
+xlrd.__init__|E:\Python26\Lib\site-packages\xlrd\__init__.py
+xlrd.biffh|E:\Python26\Lib\site-packages\xlrd\biffh.py
+xlrd.book|E:\Python26\Lib\site-packages\xlrd\book.py
+xlrd.compdoc|E:\Python26\Lib\site-packages\xlrd\compdoc.py
+xlrd.formatting|E:\Python26\Lib\site-packages\xlrd\formatting.py
+xlrd.formula|E:\Python26\Lib\site-packages\xlrd\formula.py
+xlrd.info|E:\Python26\Lib\site-packages\xlrd\info.py
+xlrd.licences|E:\Python26\Lib\site-packages\xlrd\licences.py
+xlrd.sheet|E:\Python26\Lib\site-packages\xlrd\sheet.py
+xlrd.timemachine|E:\Python26\Lib\site-packages\xlrd\timemachine.py
+xlrd.xldate|E:\Python26\Lib\site-packages\xlrd\xldate.py
+xlrd.xlsx|E:\Python26\Lib\site-packages\xlrd\xlsx.py
+xlwt.BIFFRecords|E:\Python26\Lib\site-packages\xlwt\BIFFRecords.py
+xlwt.Bitmap|E:\Python26\Lib\site-packages\xlwt\Bitmap.py
+xlwt.Cell|E:\Python26\Lib\site-packages\xlwt\Cell.py
+xlwt.Column|E:\Python26\Lib\site-packages\xlwt\Column.py
+xlwt.CompoundDoc|E:\Python26\Lib\site-packages\xlwt\CompoundDoc.py
+xlwt.ExcelFormula|E:\Python26\Lib\site-packages\xlwt\ExcelFormula.py
+xlwt.ExcelFormulaLexer|E:\Python26\Lib\site-packages\xlwt\ExcelFormulaLexer.py
+xlwt.ExcelFormulaParser|E:\Python26\Lib\site-packages\xlwt\ExcelFormulaParser.py
+xlwt.ExcelMagic|E:\Python26\Lib\site-packages\xlwt\ExcelMagic.py
+xlwt.Formatting|E:\Python26\Lib\site-packages\xlwt\Formatting.py
+xlwt.Row|E:\Python26\Lib\site-packages\xlwt\Row.py
+xlwt.Style|E:\Python26\Lib\site-packages\xlwt\Style.py
+xlwt.UnicodeUtils|E:\Python26\Lib\site-packages\xlwt\UnicodeUtils.py
+xlwt.Utils|E:\Python26\Lib\site-packages\xlwt\Utils.py
+xlwt.Workbook|E:\Python26\Lib\site-packages\xlwt\Workbook.py
+xlwt.Worksheet|E:\Python26\Lib\site-packages\xlwt\Worksheet.py
+xlwt.__init__|E:\Python26\Lib\site-packages\xlwt\__init__.py
+xlwt.antlr|E:\Python26\Lib\site-packages\xlwt\antlr.py
+xml.__init__|E:\Tools\Houdini 12.5.316.22\python26\lib\xml\__init__.py
+xml.dom.NodeFilter|E:\Tools\Houdini 12.5.316.22\python26\lib\xml\dom\NodeFilter.py
+xml.dom.__init__|E:\Tools\Houdini 12.5.316.22\python26\lib\xml\dom\__init__.py
+xml.dom.domreg|E:\Python26\Lib\xml\dom\domreg.py
+xml.dom.expatbuilder|E:\Python26\Lib\xml\dom\expatbuilder.py
+xml.dom.minicompat|E:\Tools\Houdini 12.5.316.22\python26\lib\xml\dom\minicompat.py
+xml.dom.minidom|E:\Python26\Lib\xml\dom\minidom.py
+xml.dom.pulldom|E:\Python26\Lib\xml\dom\pulldom.py
+xml.dom.xmlbuilder|E:\Tools\Houdini 12.5.316.22\python26\lib\xml\dom\xmlbuilder.py
+xml.etree.ElementInclude|E:\Python26\Lib\xml\etree\ElementInclude.py
+xml.etree.ElementPath|E:\Python26\Lib\xml\etree\ElementPath.py
+xml.etree.ElementTree|E:\Tools\Houdini 12.5.316.22\python26\lib\xml\etree\ElementTree.py
+xml.etree.__init__|E:\Python26\Lib\xml\etree\__init__.py
+xml.etree.cElementTree|E:\Python26\Lib\xml\etree\cElementTree.py
+xml.parsers.__init__|E:\Tools\Houdini 12.5.316.22\python26\lib\xml\parsers\__init__.py
+xml.parsers.expat|E:\Python26\Lib\xml\parsers\expat.py
+xml.sax.__init__|E:\Python26\Lib\xml\sax\__init__.py
+xml.sax._exceptions|E:\Tools\Houdini 12.5.316.22\python26\lib\xml\sax\_exceptions.py
+xml.sax.expatreader|E:\Python26\Lib\xml\sax\expatreader.py
+xml.sax.handler|E:\Tools\Houdini 12.5.316.22\python26\lib\xml\sax\handler.py
+xml.sax.saxutils|E:\Python26\Lib\xml\sax\saxutils.py
+xml.sax.xmlreader|E:\Python26\Lib\xml\sax\xmlreader.py
+xmllib|E:\Tools\Houdini 12.5.316.22\python26\lib\xmllib.py
+xmlrpclib|E:\Tools\Houdini 12.5.316.22\python26\lib\xmlrpclib.py
+xxsubtype
+zipfile|E:\Python26\Lib\zipfile.py
+zipimport
+zlib

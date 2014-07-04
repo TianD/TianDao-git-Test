@@ -1,0 +1,23 @@
+-- VERSION_3
+-- START DISKCACHE
+E:\Users\hgy\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\TianDaoAPITest\com.python.pydev.analysis\v1_indexcache
+.v1_indexcache
+TianDaoAPITest|0|E:\Users\hgy\workspace\TianDaoAPITest\TianDaoAPITest.py
+-- END DISKCACHE
+-- START DICTIONARY
+1
+1=TianDaoAPITest
+-- END DICTIONARY
+-- START TREE 1
+7
+inf|2|infCount!11@infs!11@
+mdg|1|mdgp_shape!11@
+mfn|2|mfn_dn_cpn!11@mfn_skin!11@
+mob|3|mobj_cpn!11@mobj_shape!11@mobj_skin!11@
+msl|2|msl_skin!11@msl_shape!11@
+sel|5|sel_skin!11@selShape!11@sel!11@selShapeString!11@sel_skinString!11@
+wei|1|weights!11@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

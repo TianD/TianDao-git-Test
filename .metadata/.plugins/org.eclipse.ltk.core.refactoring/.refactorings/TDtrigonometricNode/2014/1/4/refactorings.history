@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;TianDaoSinNode/TianDaoSinNode.py&apos; to &apos;TDSinNode.py&apos;" description="Rename resource &apos;TianDaoSinNode.py&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="TianDaoSinNode.py" name="TDSinNode.py" stamp="1390314618863" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;TDtrigonometricNode/TDSinNode.py&apos; to &apos;TDtrigonometricNode.py&apos;" description="Rename resource &apos;TDSinNode.py&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="TDSinNode.py" name="TDtrigonometricNode.py" stamp="1390314722326" updateReferences="true"/>
+</session>
